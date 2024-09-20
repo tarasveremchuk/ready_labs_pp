@@ -1,4 +1,5 @@
 import java.util.Scanner;
+import java.util.InputMismatchException;
 
 /**
  * Клас для представлення числа Фібоначчі
@@ -21,8 +22,20 @@ class FibonacciNumber {
      * @param isCube чи є це число кубом
      */
     FibonacciNumber(int value, boolean isCube) {
-        this.value = value;
-        this.isCube = isCube;
+        setValue(value);
+        setCube(isCube);
+    }
+    public int getValue(){
+        return value;
+    }
+    private void setValue(int value){
+        this.value=value;
+    }
+    public boolean isCube(){
+        return isCube;
+    }
+    private void setCube(boolean isCube){
+        this.isCube=isCube;
     }
 }
 
@@ -76,7 +89,17 @@ public class GFG {
         Scanner scanner = new Scanner(System.in);
 
         System.out.print("Введіть кількість чисел Фібоначчі: ");
-        int n = scanner.nextInt();
+        int n;
+        while (true) {
+            try {
+                System.out.print("Введіть кількість чисел Фібоначчі: ");
+                n = scanner.nextInt();
+                break;
+            } catch (InputMismatchException e) {
+                System.out.println("Невірний формат введення! Будь ласка, введіть ціле число.");
+                scanner.next();  // очищаємо буфер
+            }
+        }
 
         /**
          * Виклик функції для створення масиву об'єктів FibonacciNumber
