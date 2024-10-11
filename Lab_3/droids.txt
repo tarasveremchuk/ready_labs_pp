@@ -1,0 +1,5 @@
+archer,Archer1,80,15
+healer,Healer2,100,10
+mage,Mage3,90,20
+intimidator,Intimidator4,110,12
+fire,FireDroid5,85,25

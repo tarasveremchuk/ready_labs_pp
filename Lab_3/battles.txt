@@ -1,0 +1,63 @@
+ArcherOne,140,15
+HealerTwo,0,10
+MageThree,90,20
+IntimidatorFour,110,12
+FireDroidFive,85,25
+Бій між ArcherOne і HealerTwo
+ArcherOne (Здоров'я: 80)
+HealerTwo (Здоров'я: 100)
+ArcherOne атакує!
+HealerTwo атакує!
+ArcherOne (Здоров'я: 90)
+HealerTwo (Здоров'я: 85)
+ArcherOne атакує!
+HealerTwo атакує!
+ArcherOne (Здоров'я: 100)
+HealerTwo (Здоров'я: 70)
+ArcherOne атакує!
+HealerTwo атакує!
+ArcherOne (Здоров'я: 110)
+HealerTwo (Здоров'я: 55)
+ArcherOne атакує!
+HealerTwo атакує!
+ArcherOne (Здоров'я: 120)
+HealerTwo (Здоров'я: 40)
+ArcherOne атакує!
+HealerTwo атакує!
+ArcherOne (Здоров'я: 130)
+HealerTwo (Здоров'я: 25)
+ArcherOne атакує!
+HealerTwo атакує!
+ArcherOne (Здоров'я: 140)
+HealerTwo (Здоров'я: 10)
+ArcherOne атакує!
+ArcherOne переміг!
+Бій між Archer1 і Healer2
+Archer1 (Здоров'я: 80)
+Healer2 (Здоров'я: 100)
+Archer1 атакує!
+Healer2 атакує!
+Archer1 (Здоров'я: 90)
+Healer2 (Здоров'я: 85)
+Archer1 атакує!
+Healer2 атакує!
+Archer1 (Здоров'я: 100)
+Healer2 (Здоров'я: 70)
+Archer1 атакує!
+Healer2 атакує!
+Archer1 (Здоров'я: 110)
+Healer2 (Здоров'я: 55)
+Archer1 атакує!
+Healer2 атакує!
+Archer1 (Здоров'я: 120)
+Healer2 (Здоров'я: 40)
+Archer1 атакує!
+Healer2 атакує!
+Archer1 (Здоров'я: 130)
+Healer2 (Здоров'я: 25)
+Archer1 атакує!
+Healer2 атакує!
+Archer1 (Здоров'я: 140)
+Healer2 (Здоров'я: 10)
+Archer1 атакує!
+Archer1 переміг!
