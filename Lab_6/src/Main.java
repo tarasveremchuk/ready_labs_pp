@@ -1,14 +1,12 @@
 import salad.Salad;
-import vegetables.*;
-
-import java.io.IOException;
 import java.util.Scanner;
-
+import Command.*;
 public class Main {
     public static void main(String[] args) {
         Salad salad = new Salad();
         Scanner scanner = new Scanner(System.in);
         boolean running = true;
+
 
         while (running) {
             System.out.println("\n1. Додати овоч");
@@ -26,88 +24,38 @@ public class Main {
             switch (choice) {
                 case 1:
                     System.out.println("Оберіть овоч:");
-                    System.out.println("1 - Томат, 2 - Морква, 3 - Огірок, 4 - Капуста, 5 - Цибуля");
-                    int vegChoice = scanner.nextInt();
-                    switch (vegChoice) {
-                        case 1:
-                            System.out.print("Вага томату (г): ");
-                            double tomatoWeight = scanner.nextDouble();
-                            System.out.print("Сорт томату: ");
-                            String variety = scanner.next();
-                            salad.addVegetable(new Tomato(tomatoWeight, variety));
-                            break;
-                        case 2:
-                            System.out.print("Вага моркви (г): ");
-                            double carrotWeight = scanner.nextDouble();
-                            System.out.print("Колір моркви: ");
-                            String color = scanner.next();
-                            salad.addVegetable(new Carrot(carrotWeight, color));
-                            break;
-                        case 3:
-                            System.out.print("Вага огірка (г): ");
-                            double cucumberWeight = scanner.nextDouble();
-                            System.out.print("Довжина огірка (см): ");
-                            double length = scanner.nextDouble();
-                            salad.addVegetable(new Cucumber(cucumberWeight, length));
-                            break;
-                        case 4:
-                            System.out.print("Вага капусти (г): ");
-                            double cabbageWeight = scanner.nextDouble();
-                            System.out.print("Тип капусти: ");
-                            String type = scanner.next();
-                            salad.addVegetable(new Cabbage(cabbageWeight, type));
-                            break;
-                        case 5:
-                            System.out.print("Вага цибулі (г): ");
-                            double onionWeight = scanner.nextDouble();
-                            System.out.print("Гострота цибулі: ");
-                            String sharpness = scanner.next();
-                            salad.addVegetable(new Onion(onionWeight, sharpness));
-                            break;
-                    }
+                    // Додавання логіки вибору овоча
+                    Command addVegetable = new AddVegetableCommand(salad);
+                    addVegetable.execute();
                     break;
+
                 case 2:
-                    System.out.println(salad);
+                    Command showSalad = new ShowSaladCommand(salad);
+                    showSalad.execute();
                     break;
                 case 3:
-                    System.out.println("Загальна калорійність: " + salad.calculateTotalCalories() + " ккал");
+                    Command calculateCalories = new CalculateCaloriesCommand(salad);
+                    calculateCalories.execute();
                     break;
                 case 4:
-                    salad.sortByWeight();
-                    System.out.println("Овочі відсортовані за вагою.");
+                    Command sortByWeight = new SortByWeightCommand(salad);
+                    sortByWeight.execute();
                     break;
                 case 5:
-                    System.out.print("Мінімальні калорії: ");
-                    double minCalories = scanner.nextDouble();
-                    System.out.print("Максимальні калорії: ");
-                    double maxCalories = scanner.nextDouble();
-                    System.out.println("Знайдені овочі: " + salad.findVegetablesByCaloriesRange(minCalories, maxCalories));
+                    Command findVegetables = new FindVegetablesRangeCommand(salad);
+                    findVegetables.execute();
                     break;
                 case 6:
-                    System.out.print("Введіть ім'я файлу для збереження: ");
-                    String saveFilename = scanner.next();
-                    try {
-                        salad.saveToFile(saveFilename);
-                        System.out.println("Салат збережено у файл.");
-                    } catch (IOException e) {
-                        System.out.println("Помилка при збереженні файлу: " + e.getMessage());
-                    }
+                    Command saveSalad = new SaveSaladCommand(salad);
+                    saveSalad.execute();
                     break;
                 case 7:
-                    System.out.print("Введіть ім'я файлу для завантаження: ");
-                    String loadFilename = scanner.next();
-                    try {
-                        salad.loadFromFile(loadFilename);
-                        System.out.println("Салат завантажено з файлу.");
-                    } catch (IOException e) {
-                        System.out.println("Помилка при завантаженні файлу: " + e.getMessage());
-                    }
+                    Command loadSalad = new LoadSaladCommand(salad);
+                    loadSalad.execute();
                     break;
                 case 8:
-                    System.out.println(salad);
-                    System.out.print("Введіть індекс овоча для видалення: ");
-                    int indexToRemove = scanner.nextInt();
-                    salad.removeVegetable(indexToRemove);
+                    Command removeVegetable = new RemoveVegetableCommand(salad);
+                    removeVegetable.execute();
                     break;
                 case 9:
                     running = false;
