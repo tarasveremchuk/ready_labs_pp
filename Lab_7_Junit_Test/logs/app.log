@@ -1,0 +1,959 @@
+2024-11-01 00:23:15 [main] INFO  salad.Salad - Створено новий об'єкт салату.
+2024-11-01 00:23:15 [main] ERROR Main - Виникла критична помилка: / by zero
+java.lang.ArithmeticException: / by zero
+	at Main.main(Main.java:13) [classes/:?]
+2024-11-01 00:24:56 [main] INFO  salad.Salad - Створено новий об'єкт салату.
+2024-11-01 00:24:57 [main] ERROR Main - Виникла критична помилка: / by zero
+java.lang.ArithmeticException: / by zero
+	at Main.main(Main.java:13) [classes/:?]
+2024-11-01 00:26:27 [main] INFO  salad.Salad - Створено новий об'єкт салату.
+2024-11-01 00:26:27 [main] ERROR Main - Виникла критична помилка: / by zero
+java.lang.ArithmeticException: / by zero
+	at Main.main(Main.java:13) [classes/:?]
+2024-11-01 00:30:00 [main] INFO  salad.Salad - Створено новий об'єкт салату.
+2024-11-01 00:30:00 [main] ERROR Main - Виникла критична помилка: / by zero
+java.lang.ArithmeticException: / by zero
+	at Main.main(Main.java:13) [classes/:?]
+2024-11-01 00:31:20 [main] INFO  salad.Salad - Створено новий об'єкт салату.
+2024-11-01 00:31:20 [main] ERROR Main - Виникла критична помилка: / by zero
+java.lang.ArithmeticException: / by zero
+	at Main.main(Main.java:13) [classes/:?]
+2024-11-01 00:39:33 [main] INFO  salad.Salad - Створено новий об'єкт салату.
+2024-11-01 00:39:33 [main] ERROR Main - Виникла критична помилка: / by zero
+java.lang.ArithmeticException: / by zero
+	at Main.main(Main.java:13) [classes/:?]
+2024-11-01 00:40:32 [main] INFO  salad.Salad - Створено новий об'єкт салату.
+2024-11-01 00:40:32 [main] ERROR Main - Виникла критична помилка: / by zero
+java.lang.ArithmeticException: / by zero
+	at Main.main(Main.java:13) [classes/:?]
+2024-11-01 00:41:57 [main] INFO  salad.Salad - Створено новий об'єкт салату.
+2024-11-01 00:41:57 [main] INFO  salad.Salad - Створено новий об'єкт салату.
+2024-11-01 00:41:57 [main] INFO  salad.Salad - Салат збережено у файл: testSalad14169153973939292079.txt
+2024-11-01 00:41:58 [main] INFO  salad.Salad - Створено новий об'єкт салату.
+2024-11-01 00:41:58 [main] INFO  salad.Salad - Додано овоч: Tomato
+2024-11-01 00:41:58 [main] INFO  salad.Salad - Додано овоч: Cucumber
+2024-11-01 00:41:58 [main] INFO  salad.Salad - Створено новий об'єкт салату.
+2024-11-01 00:41:58 [main] INFO  salad.Salad - Додано овоч: Tomato
+2024-11-01 00:41:58 [main] INFO  salad.Salad - Додано овоч: Carrot
+2024-11-01 00:41:58 [main] INFO  salad.Salad - Знайдено овочів у діапазоні калорій: 2
+2024-11-01 00:41:58 [main] INFO  salad.Salad - Знайдено овочів у діапазоні калорій: 2
+2024-11-01 00:41:58 [main] INFO  salad.Salad - Створено новий об'єкт салату.
+2024-11-01 00:41:58 [main] INFO  salad.Salad - Додано овоч: Tomato
+2024-11-01 00:41:58 [main] INFO  salad.Salad - Створено новий об'єкт салату.
+2024-11-01 00:41:58 [main] INFO  salad.Salad - Додано овоч: Tomato
+2024-11-01 00:41:58 [main] INFO  salad.Salad - Додано овоч: Cucumber
+2024-11-01 00:41:58 [main] INFO  salad.Salad - Додано овоч: Carrot
+2024-11-01 00:41:58 [main] INFO  salad.Salad - Овочі відсортовано за вагою.
+2024-11-01 00:41:58 [main] INFO  salad.Salad - Створено новий об'єкт салату.
+2024-11-01 00:41:58 [main] INFO  salad.Salad - Додано овоч з даних: Tomato
+2024-11-01 00:41:58 [main] INFO  salad.Salad - Додано овоч з даних: Cucumber
+2024-11-01 00:41:58 [main] INFO  salad.Salad - Додано овоч з даних: Carrot
+2024-11-01 00:41:58 [main] INFO  salad.Salad - Салат завантажено з файлу: test_load_multiple_vegetables.txt
+2024-11-01 00:41:58 [main] INFO  salad.Salad - Створено новий об'єкт салату.
+2024-11-01 00:41:58 [main] WARN  salad.Salad - Невідомий овоч: unknown_vegetable
+2024-11-01 00:41:58 [main] INFO  salad.Salad - Додано овоч з даних: Tomato
+2024-11-01 00:41:58 [main] INFO  salad.Salad - Салат завантажено з файлу: test_load_unknown_vegetables.txt
+2024-11-01 00:41:58 [main] INFO  salad.Salad - Створено новий об'єкт салату.
+2024-11-01 00:41:58 [main] INFO  salad.Salad - Додано овоч: Tomato
+2024-11-01 00:41:58 [main] INFO  salad.Salad - Додано овоч: Cucumber
+2024-11-01 00:41:58 [main] INFO  salad.Salad - Створено новий об'єкт салату.
+2024-11-01 00:41:58 [main] INFO  salad.Salad - Додано овоч: Tomato
+2024-11-01 00:41:58 [main] INFO  salad.Salad - Додано овоч: Cucumber
+2024-11-01 00:41:58 [main] INFO  salad.Salad - Видалено овоч: Tomato
+2024-11-01 00:41:58 [main] INFO  salad.Salad - Створено новий об'єкт салату.
+2024-11-01 00:41:58 [main] ERROR salad.Salad - Не вдалося видалити овоч: індекс поза межами.
+2024-11-01 00:42:05 [main] INFO  salad.Salad - Створено новий об'єкт салату.
+2024-11-01 00:42:05 [main] INFO  salad.Salad - Додано овоч з даних: Tomato
+2024-11-01 00:42:05 [main] WARN  salad.Salad - Невідомий овоч: unknown_vegetable
+2024-11-01 00:42:05 [main] INFO  salad.Salad - Додано овоч з даних: Carrot
+2024-11-01 00:42:05 [main] INFO  salad.Salad - Салат завантажено з файлу: test_load_partially_invalid_vegetables.txt
+2024-11-01 00:42:05 [main] INFO  salad.Salad - Створено новий об'єкт салату.
+2024-11-01 00:42:05 [main] INFO  salad.Salad - Додано овоч: Tomato
+2024-11-01 00:42:05 [main] INFO  salad.Salad - Салат збережено у файл: test_vegetables.txt
+2024-11-01 00:42:05 [main] INFO  salad.Salad - Створено новий об'єкт салату.
+2024-11-01 00:42:05 [main] INFO  salad.Salad - Додано овоч: Tomato
+2024-11-01 00:42:05 [main] INFO  salad.Salad - Додано овоч: Cucumber
+2024-11-01 00:42:05 [main] INFO  salad.Salad - Додано овоч: Carrot
+2024-11-01 00:42:05 [main] INFO  salad.Salad - Знайдено овочів у діапазоні калорій: 1
+2024-11-01 00:42:05 [main] INFO  salad.Salad - Знайдено овочів у діапазоні калорій: 0
+2024-11-01 00:42:05 [main] INFO  salad.Salad - Знайдено овочів у діапазоні калорій: 1
+2024-11-01 00:42:05 [main] INFO  salad.Salad - Знайдено овочів у діапазоні калорій: 1
+2024-11-01 00:42:05 [main] INFO  salad.Salad - Знайдено овочів у діапазоні калорій: 0
+2024-11-01 00:42:05 [main] INFO  salad.Salad - Створено новий об'єкт салату.
+2024-11-01 00:42:05 [main] INFO  salad.Salad - Додано овоч: Tomato
+2024-11-01 00:42:05 [main] INFO  salad.Salad - Додано овоч: Cucumber
+2024-11-01 00:42:05 [main] INFO  salad.Salad - Додано овоч: Carrot
+2024-11-01 00:42:05 [main] ERROR salad.Salad - Не вдалося видалити овоч: індекс поза межами.
+2024-11-01 00:42:12 [main] INFO  salad.Salad - Створено новий об'єкт салату.
+2024-11-01 00:42:12 [main] INFO  salad.Salad - Додано овоч з даних: Tomato
+2024-11-01 00:42:12 [main] INFO  salad.Salad - Додано овоч з даних: Cucumber
+2024-11-01 00:42:12 [main] INFO  salad.Salad - Додано овоч з даних: Carrot
+2024-11-01 00:42:12 [main] INFO  salad.Salad - Салат завантажено з файлу: test_load_vegetables.txt
+2024-11-01 00:42:12 [main] INFO  salad.Salad - Створено новий об'єкт салату.
+2024-11-01 00:42:12 [main] INFO  salad.Salad - Додано овоч: Tomato
+2024-11-01 00:42:12 [main] INFO  salad.Salad - Додано овоч: Cucumber
+2024-11-01 00:42:12 [main] INFO  salad.Salad - Підрахунок загальної калорійності: 59.0
+2024-11-01 00:42:12 [main] INFO  salad.Salad - Створено новий об'єкт салату.
+2024-11-01 00:42:12 [main] ERROR salad.Salad - Не вдалося додати овоч: овоч не може бути null
+2024-11-01 00:42:19 [main] INFO  salad.Salad - Створено новий об'єкт салату.
+2024-11-01 00:42:19 [main] INFO  salad.Salad - Додано овоч: Tomato
+2024-11-01 00:42:19 [main] INFO  salad.Salad - Додано овоч: Cucumber
+2024-11-01 00:42:19 [main] INFO  salad.Salad - Видалено овоч: Tomato
+2024-11-01 00:42:19 [main] INFO  salad.Salad - Створено новий об'єкт салату.
+2024-11-01 00:42:19 [main] INFO  salad.Salad - Додано овоч: Tomato
+2024-11-01 00:42:19 [main] INFO  salad.Salad - Додано овоч: Cucumber
+2024-11-01 00:42:19 [main] INFO  salad.Salad - Додано овоч: Tomato
+2024-11-01 00:42:19 [main] INFO  salad.Salad - Овочі відсортовано за вагою.
+2024-11-01 00:42:19 [main] INFO  salad.Salad - Створено новий об'єкт салату.
+2024-11-01 00:42:19 [main] INFO  salad.Salad - Додано овоч: Carrot
+2024-11-01 00:42:19 [main] INFO  salad.Salad - Створено новий об'єкт салату.
+2024-11-01 00:42:19 [main] INFO  salad.Salad - Додано овоч: Cabbage
+2024-11-01 00:42:19 [main] INFO  salad.Salad - Створено новий об'єкт салату.
+2024-11-01 00:42:19 [main] INFO  salad.Salad - Додано овоч: Cucumber
+2024-11-01 00:42:19 [main] INFO  salad.Salad - Створено новий об'єкт салату.
+2024-11-01 00:42:19 [main] INFO  salad.Salad - Додано овоч: Tomato
+2024-11-01 00:42:19 [main] INFO  salad.Salad - Створено новий об'єкт салату.
+2024-11-01 00:42:19 [main] INFO  salad.Salad - Додано овоч: Onion
+2024-11-01 00:42:19 [main] INFO  salad.Salad - Створено новий об'єкт салату.
+2024-11-01 00:42:19 [main] INFO  salad.Salad - Створено новий об'єкт салату.
+2024-11-01 00:42:19 [main] INFO  salad.Salad - Додано овоч: Carrot
+2024-11-01 00:42:19 [main] INFO  salad.Salad - Додано овоч: Tomato
+2024-11-01 00:42:19 [main] INFO  salad.Salad - Підрахунок загальної калорійності: 68.0
+2024-11-01 00:42:19 [main] INFO  salad.Salad - Підрахунок загальної калорійності: 68.0
+2024-11-01 00:42:19 [main] INFO  salad.Salad - Підрахунок загальної калорійності: 68.0
+2024-11-01 00:42:19 [main] INFO  salad.Salad - Створено новий об'єкт салату.
+2024-11-01 00:42:19 [main] INFO  salad.Salad - Додано овоч: Carrot
+2024-11-01 00:42:19 [main] INFO  salad.Salad - Додано овоч: Tomato
+2024-11-01 00:42:19 [main] INFO  salad.Salad - Додано овоч: Carrot
+2024-11-01 00:42:19 [main] INFO  salad.Salad - Підрахунок загальної калорійності: 150.0
+2024-11-01 00:42:19 [main] INFO  salad.Salad - Підрахунок загальної калорійності: 150.0
+2024-11-01 00:42:19 [main] INFO  salad.Salad - Підрахунок загальної калорійності: 150.0
+2024-11-01 00:42:19 [main] INFO  salad.Salad - Створено новий об'єкт салату.
+2024-11-01 00:42:19 [main] INFO  salad.Salad - Підрахунок загальної калорійності: 0.0
+2024-11-01 00:42:19 [main] INFO  salad.Salad - Підрахунок загальної калорійності: 0.0
+2024-11-01 00:42:19 [main] INFO  salad.Salad - Підрахунок загальної калорійності: 0.0
+2024-11-01 00:42:19 [main] INFO  salad.Salad - Створено новий об'єкт салату.
+2024-11-01 00:42:19 [main] INFO  salad.Salad - Створено новий об'єкт салату.
+2024-11-01 00:44:10 [main] INFO  salad.Salad - Створено новий об'єкт салату.
+2024-11-01 00:44:10 [main] INFO  salad.Salad - Додано овоч: Tomato
+2024-11-01 00:44:10 [main] INFO  salad.Salad - Додано овоч: Cucumber
+2024-11-01 00:44:29 [main] INFO  salad.Salad - Створено новий об'єкт салату.
+2024-11-01 00:44:29 [main] INFO  salad.Salad - Створено новий об'єкт салату.
+2024-11-01 00:44:29 [main] INFO  salad.Salad - Салат збережено у файл: testSalad578199222520906764.txt
+2024-11-01 00:44:29 [main] INFO  salad.Salad - Створено новий об'єкт салату.
+2024-11-01 00:44:29 [main] INFO  salad.Salad - Додано овоч: Tomato
+2024-11-01 00:44:29 [main] INFO  salad.Salad - Додано овоч: Cucumber
+2024-11-01 00:44:29 [main] INFO  salad.Salad - Створено новий об'єкт салату.
+2024-11-01 00:44:29 [main] INFO  salad.Salad - Додано овоч: Tomato
+2024-11-01 00:44:29 [main] INFO  salad.Salad - Додано овоч: Carrot
+2024-11-01 00:44:29 [main] INFO  salad.Salad - Знайдено овочів у діапазоні калорій: 2
+2024-11-01 00:44:29 [main] INFO  salad.Salad - Знайдено овочів у діапазоні калорій: 2
+2024-11-01 00:44:29 [main] INFO  salad.Salad - Створено новий об'єкт салату.
+2024-11-01 00:44:29 [main] INFO  salad.Salad - Додано овоч: Tomato
+2024-11-01 00:44:29 [main] INFO  salad.Salad - Створено новий об'єкт салату.
+2024-11-01 00:44:29 [main] INFO  salad.Salad - Додано овоч: Tomato
+2024-11-01 00:44:29 [main] INFO  salad.Salad - Додано овоч: Cucumber
+2024-11-01 00:44:29 [main] INFO  salad.Salad - Додано овоч: Carrot
+2024-11-01 00:44:29 [main] INFO  salad.Salad - Овочі відсортовано за вагою.
+2024-11-01 00:44:29 [main] INFO  salad.Salad - Створено новий об'єкт салату.
+2024-11-01 00:44:29 [main] INFO  salad.Salad - Додано овоч з даних: Tomato
+2024-11-01 00:44:29 [main] INFO  salad.Salad - Додано овоч з даних: Cucumber
+2024-11-01 00:44:29 [main] INFO  salad.Salad - Додано овоч з даних: Carrot
+2024-11-01 00:44:29 [main] INFO  salad.Salad - Салат завантажено з файлу: test_load_multiple_vegetables.txt
+2024-11-01 00:44:29 [main] INFO  salad.Salad - Створено новий об'єкт салату.
+2024-11-01 00:44:29 [main] WARN  salad.Salad - Невідомий овоч: unknown_vegetable
+2024-11-01 00:44:29 [main] INFO  salad.Salad - Додано овоч з даних: Tomato
+2024-11-01 00:44:29 [main] INFO  salad.Salad - Салат завантажено з файлу: test_load_unknown_vegetables.txt
+2024-11-01 00:44:29 [main] INFO  salad.Salad - Створено новий об'єкт салату.
+2024-11-01 00:44:29 [main] INFO  salad.Salad - Додано овоч: Tomato
+2024-11-01 00:44:29 [main] INFO  salad.Salad - Додано овоч: Cucumber
+2024-11-01 00:44:29 [main] INFO  salad.Salad - Створено новий об'єкт салату.
+2024-11-01 00:44:29 [main] INFO  salad.Salad - Додано овоч: Tomato
+2024-11-01 00:44:29 [main] INFO  salad.Salad - Додано овоч: Cucumber
+2024-11-01 00:44:29 [main] INFO  salad.Salad - Видалено овоч: Tomato
+2024-11-01 00:44:29 [main] INFO  salad.Salad - Створено новий об'єкт салату.
+2024-11-01 00:44:29 [main] ERROR salad.Salad - Не вдалося видалити овоч: індекс поза межами.
+2024-11-01 00:44:37 [main] INFO  salad.Salad - Створено новий об'єкт салату.
+2024-11-01 00:44:37 [main] INFO  salad.Salad - Додано овоч з даних: Tomato
+2024-11-01 00:44:37 [main] WARN  salad.Salad - Невідомий овоч: unknown_vegetable
+2024-11-01 00:44:37 [main] INFO  salad.Salad - Додано овоч з даних: Carrot
+2024-11-01 00:44:37 [main] INFO  salad.Salad - Салат завантажено з файлу: test_load_partially_invalid_vegetables.txt
+2024-11-01 00:44:37 [main] INFO  salad.Salad - Створено новий об'єкт салату.
+2024-11-01 00:44:37 [main] INFO  salad.Salad - Додано овоч: Tomato
+2024-11-01 00:44:37 [main] INFO  salad.Salad - Салат збережено у файл: test_vegetables.txt
+2024-11-01 00:44:37 [main] INFO  salad.Salad - Створено новий об'єкт салату.
+2024-11-01 00:44:37 [main] INFO  salad.Salad - Додано овоч: Tomato
+2024-11-01 00:44:37 [main] INFO  salad.Salad - Додано овоч: Cucumber
+2024-11-01 00:44:37 [main] INFO  salad.Salad - Додано овоч: Carrot
+2024-11-01 00:44:37 [main] INFO  salad.Salad - Знайдено овочів у діапазоні калорій: 1
+2024-11-01 00:44:37 [main] INFO  salad.Salad - Знайдено овочів у діапазоні калорій: 0
+2024-11-01 00:44:37 [main] INFO  salad.Salad - Знайдено овочів у діапазоні калорій: 1
+2024-11-01 00:44:37 [main] INFO  salad.Salad - Знайдено овочів у діапазоні калорій: 1
+2024-11-01 00:44:37 [main] INFO  salad.Salad - Знайдено овочів у діапазоні калорій: 0
+2024-11-01 00:44:37 [main] INFO  salad.Salad - Створено новий об'єкт салату.
+2024-11-01 00:44:37 [main] INFO  salad.Salad - Додано овоч: Tomato
+2024-11-01 00:44:37 [main] INFO  salad.Salad - Додано овоч: Cucumber
+2024-11-01 00:44:37 [main] INFO  salad.Salad - Додано овоч: Carrot
+2024-11-01 00:44:37 [main] ERROR salad.Salad - Не вдалося видалити овоч: індекс поза межами.
+2024-11-01 00:44:44 [main] INFO  salad.Salad - Створено новий об'єкт салату.
+2024-11-01 00:44:44 [main] INFO  salad.Salad - Додано овоч з даних: Tomato
+2024-11-01 00:44:44 [main] INFO  salad.Salad - Додано овоч з даних: Cucumber
+2024-11-01 00:44:44 [main] INFO  salad.Salad - Додано овоч з даних: Carrot
+2024-11-01 00:44:44 [main] INFO  salad.Salad - Салат завантажено з файлу: test_load_vegetables.txt
+2024-11-01 00:44:44 [main] INFO  salad.Salad - Створено новий об'єкт салату.
+2024-11-01 00:44:44 [main] INFO  salad.Salad - Додано овоч: Tomato
+2024-11-01 00:44:44 [main] INFO  salad.Salad - Додано овоч: Cucumber
+2024-11-01 00:44:44 [main] INFO  salad.Salad - Підрахунок загальної калорійності: 59.0
+2024-11-01 00:44:44 [main] INFO  salad.Salad - Створено новий об'єкт салату.
+2024-11-01 00:44:44 [main] ERROR salad.Salad - Не вдалося додати овоч: овоч не може бути null
+2024-11-01 00:44:52 [main] INFO  salad.Salad - Створено новий об'єкт салату.
+2024-11-01 00:44:52 [main] INFO  salad.Salad - Додано овоч: Tomato
+2024-11-01 00:44:52 [main] INFO  salad.Salad - Додано овоч: Cucumber
+2024-11-01 00:44:52 [main] INFO  salad.Salad - Видалено овоч: Tomato
+2024-11-01 00:44:52 [main] INFO  salad.Salad - Створено новий об'єкт салату.
+2024-11-01 00:44:52 [main] INFO  salad.Salad - Додано овоч: Tomato
+2024-11-01 00:44:52 [main] INFO  salad.Salad - Додано овоч: Cucumber
+2024-11-01 00:44:52 [main] INFO  salad.Salad - Додано овоч: Tomato
+2024-11-01 00:44:52 [main] INFO  salad.Salad - Овочі відсортовано за вагою.
+2024-11-01 00:44:52 [main] INFO  salad.Salad - Створено новий об'єкт салату.
+2024-11-01 00:44:52 [main] INFO  salad.Salad - Додано овоч: Carrot
+2024-11-01 00:44:52 [main] INFO  salad.Salad - Створено новий об'єкт салату.
+2024-11-01 00:44:52 [main] INFO  salad.Salad - Додано овоч: Cabbage
+2024-11-01 00:44:52 [main] INFO  salad.Salad - Створено новий об'єкт салату.
+2024-11-01 00:44:52 [main] INFO  salad.Salad - Додано овоч: Cucumber
+2024-11-01 00:44:52 [main] INFO  salad.Salad - Створено новий об'єкт салату.
+2024-11-01 00:44:52 [main] INFO  salad.Salad - Додано овоч: Tomato
+2024-11-01 00:44:52 [main] INFO  salad.Salad - Створено новий об'єкт салату.
+2024-11-01 00:44:52 [main] INFO  salad.Salad - Додано овоч: Onion
+2024-11-01 00:44:52 [main] INFO  salad.Salad - Створено новий об'єкт салату.
+2024-11-01 00:44:52 [main] INFO  salad.Salad - Створено новий об'єкт салату.
+2024-11-01 00:44:52 [main] INFO  salad.Salad - Додано овоч: Carrot
+2024-11-01 00:44:52 [main] INFO  salad.Salad - Додано овоч: Tomato
+2024-11-01 00:44:52 [main] INFO  salad.Salad - Підрахунок загальної калорійності: 68.0
+2024-11-01 00:44:52 [main] INFO  salad.Salad - Підрахунок загальної калорійності: 68.0
+2024-11-01 00:44:52 [main] INFO  salad.Salad - Підрахунок загальної калорійності: 68.0
+2024-11-01 00:44:52 [main] INFO  salad.Salad - Створено новий об'єкт салату.
+2024-11-01 00:44:52 [main] INFO  salad.Salad - Додано овоч: Carrot
+2024-11-01 00:44:52 [main] INFO  salad.Salad - Додано овоч: Tomato
+2024-11-01 00:44:52 [main] INFO  salad.Salad - Додано овоч: Carrot
+2024-11-01 00:44:52 [main] INFO  salad.Salad - Підрахунок загальної калорійності: 150.0
+2024-11-01 00:44:52 [main] INFO  salad.Salad - Підрахунок загальної калорійності: 150.0
+2024-11-01 00:44:52 [main] INFO  salad.Salad - Підрахунок загальної калорійності: 150.0
+2024-11-01 00:44:52 [main] INFO  salad.Salad - Створено новий об'єкт салату.
+2024-11-01 00:44:52 [main] INFO  salad.Salad - Підрахунок загальної калорійності: 0.0
+2024-11-01 00:44:52 [main] INFO  salad.Salad - Підрахунок загальної калорійності: 0.0
+2024-11-01 00:44:52 [main] INFO  salad.Salad - Підрахунок загальної калорійності: 0.0
+2024-11-01 00:44:52 [main] INFO  salad.Salad - Створено новий об'єкт салату.
+2024-11-01 00:44:52 [main] INFO  salad.Salad - Створено новий об'єкт салату.
+2024-11-01 00:46:21 [main] INFO  salad.Salad - Створено новий об'єкт салату.
+2024-11-01 00:46:21 [main] INFO  salad.Salad - Додано овоч: Tomato
+2024-11-01 00:46:21 [main] INFO  salad.Salad - Створено новий об'єкт салату.
+2024-11-01 00:46:21 [main] INFO  salad.Salad - Додано овоч: Tomato
+2024-11-01 00:46:21 [main] INFO  salad.Salad - Додано овоч: Cucumber
+2024-11-01 00:46:21 [main] INFO  salad.Salad - Додано овоч: Carrot
+2024-11-01 00:46:21 [main] INFO  salad.Salad - Овочі відсортовано за вагою.
+2024-11-01 00:46:21 [main] INFO  salad.Salad - Створено новий об'єкт салату.
+2024-11-01 00:46:21 [main] INFO  salad.Salad - Додано овоч з даних: Tomato
+2024-11-01 00:46:21 [main] INFO  salad.Salad - Додано овоч з даних: Cucumber
+2024-11-01 00:46:21 [main] INFO  salad.Salad - Додано овоч з даних: Carrot
+2024-11-01 00:46:21 [main] INFO  salad.Salad - Салат завантажено з файлу: test_load_multiple_vegetables.txt
+2024-11-01 00:46:21 [main] INFO  salad.Salad - Створено новий об'єкт салату.
+2024-11-01 00:46:21 [main] WARN  salad.Salad - Невідомий овоч: unknown_vegetable
+2024-11-01 00:46:21 [main] INFO  salad.Salad - Додано овоч з даних: Tomato
+2024-11-01 00:46:21 [main] INFO  salad.Salad - Салат завантажено з файлу: test_load_unknown_vegetables.txt
+2024-11-01 00:46:21 [main] INFO  salad.Salad - Створено новий об'єкт салату.
+2024-11-01 00:46:21 [main] INFO  salad.Salad - Додано овоч: Tomato
+2024-11-01 00:46:21 [main] INFO  salad.Salad - Додано овоч: Cucumber
+2024-11-01 00:46:21 [main] INFO  salad.Salad - Створено новий об'єкт салату.
+2024-11-01 00:46:21 [main] INFO  salad.Salad - Додано овоч: Tomato
+2024-11-01 00:46:21 [main] INFO  salad.Salad - Додано овоч: Cucumber
+2024-11-01 00:46:21 [main] INFO  salad.Salad - Видалено овоч: Tomato
+2024-11-01 00:46:21 [main] INFO  salad.Salad - Створено новий об'єкт салату.
+2024-11-01 00:46:21 [main] ERROR salad.Salad - Не вдалося видалити овоч: індекс поза межами.
+2024-11-01 00:46:29 [main] INFO  salad.Salad - Створено новий об'єкт салату.
+2024-11-01 00:46:29 [main] INFO  salad.Salad - Додано овоч з даних: Tomato
+2024-11-01 00:46:29 [main] WARN  salad.Salad - Невідомий овоч: unknown_vegetable
+2024-11-01 00:46:29 [main] INFO  salad.Salad - Додано овоч з даних: Carrot
+2024-11-01 00:46:29 [main] INFO  salad.Salad - Салат завантажено з файлу: test_load_partially_invalid_vegetables.txt
+2024-11-01 00:46:29 [main] INFO  salad.Salad - Створено новий об'єкт салату.
+2024-11-01 00:46:29 [main] INFO  salad.Salad - Додано овоч: Tomato
+2024-11-01 00:46:29 [main] INFO  salad.Salad - Салат збережено у файл: test_vegetables.txt
+2024-11-01 00:46:29 [main] INFO  salad.Salad - Створено новий об'єкт салату.
+2024-11-01 00:46:29 [main] INFO  salad.Salad - Додано овоч: Tomato
+2024-11-01 00:46:29 [main] INFO  salad.Salad - Додано овоч: Cucumber
+2024-11-01 00:46:29 [main] INFO  salad.Salad - Додано овоч: Carrot
+2024-11-01 00:46:29 [main] INFO  salad.Salad - Знайдено овочів у діапазоні калорій: 1
+2024-11-01 00:46:29 [main] INFO  salad.Salad - Знайдено овочів у діапазоні калорій: 0
+2024-11-01 00:46:29 [main] INFO  salad.Salad - Знайдено овочів у діапазоні калорій: 1
+2024-11-01 00:46:29 [main] INFO  salad.Salad - Знайдено овочів у діапазоні калорій: 1
+2024-11-01 00:46:29 [main] INFO  salad.Salad - Знайдено овочів у діапазоні калорій: 0
+2024-11-01 00:46:29 [main] INFO  salad.Salad - Створено новий об'єкт салату.
+2024-11-01 00:46:29 [main] INFO  salad.Salad - Додано овоч: Tomato
+2024-11-01 00:46:29 [main] INFO  salad.Salad - Додано овоч: Cucumber
+2024-11-01 00:46:29 [main] INFO  salad.Salad - Додано овоч: Carrot
+2024-11-01 00:46:29 [main] ERROR salad.Salad - Не вдалося видалити овоч: індекс поза межами.
+2024-11-01 00:46:33 [main] INFO  salad.Salad - Створено новий об'єкт салату.
+2024-11-01 00:46:33 [main] INFO  salad.Salad - Створено новий об'єкт салату.
+2024-11-01 00:46:33 [main] INFO  salad.Salad - Салат збережено у файл: testSalad4564326259034851294.txt
+2024-11-01 00:46:33 [main] INFO  salad.Salad - Створено новий об'єкт салату.
+2024-11-01 00:46:33 [main] INFO  salad.Salad - Додано овоч: Tomato
+2024-11-01 00:46:33 [main] INFO  salad.Salad - Додано овоч: Cucumber
+2024-11-01 00:46:33 [main] INFO  salad.Salad - Створено новий об'єкт салату.
+2024-11-01 00:46:33 [main] INFO  salad.Salad - Додано овоч: Tomato
+2024-11-01 00:46:33 [main] INFO  salad.Salad - Додано овоч: Carrot
+2024-11-01 00:46:33 [main] INFO  salad.Salad - Знайдено овочів у діапазоні калорій: 2
+2024-11-01 00:46:33 [main] INFO  salad.Salad - Знайдено овочів у діапазоні калорій: 2
+2024-11-01 00:46:33 [main] INFO  salad.Salad - Створено новий об'єкт салату.
+2024-11-01 00:46:33 [main] INFO  salad.Salad - Додано овоч: Tomato
+2024-11-01 00:46:33 [main] INFO  salad.Salad - Створено новий об'єкт салату.
+2024-11-01 00:46:33 [main] INFO  salad.Salad - Додано овоч: Tomato
+2024-11-01 00:46:33 [main] INFO  salad.Salad - Додано овоч: Cucumber
+2024-11-01 00:46:33 [main] INFO  salad.Salad - Додано овоч: Carrot
+2024-11-01 00:46:33 [main] INFO  salad.Salad - Овочі відсортовано за вагою.
+2024-11-01 00:46:33 [main] INFO  salad.Salad - Створено новий об'єкт салату.
+2024-11-01 00:46:33 [main] INFO  salad.Salad - Додано овоч з даних: Tomato
+2024-11-01 00:46:33 [main] INFO  salad.Salad - Додано овоч з даних: Cucumber
+2024-11-01 00:46:33 [main] INFO  salad.Salad - Додано овоч з даних: Carrot
+2024-11-01 00:46:33 [main] INFO  salad.Salad - Салат завантажено з файлу: test_load_multiple_vegetables.txt
+2024-11-01 00:46:33 [main] INFO  salad.Salad - Створено новий об'єкт салату.
+2024-11-01 00:46:33 [main] WARN  salad.Salad - Невідомий овоч: unknown_vegetable
+2024-11-01 00:46:33 [main] INFO  salad.Salad - Додано овоч з даних: Tomato
+2024-11-01 00:46:33 [main] INFO  salad.Salad - Салат завантажено з файлу: test_load_unknown_vegetables.txt
+2024-11-01 00:46:33 [main] INFO  salad.Salad - Створено новий об'єкт салату.
+2024-11-01 00:46:33 [main] INFO  salad.Salad - Додано овоч: Tomato
+2024-11-01 00:46:33 [main] INFO  salad.Salad - Додано овоч: Cucumber
+2024-11-01 00:46:33 [main] INFO  salad.Salad - Створено новий об'єкт салату.
+2024-11-01 00:46:33 [main] INFO  salad.Salad - Додано овоч: Tomato
+2024-11-01 00:46:33 [main] INFO  salad.Salad - Додано овоч: Cucumber
+2024-11-01 00:46:33 [main] INFO  salad.Salad - Видалено овоч: Tomato
+2024-11-01 00:46:33 [main] INFO  salad.Salad - Створено новий об'єкт салату.
+2024-11-01 00:46:33 [main] ERROR salad.Salad - Не вдалося видалити овоч: індекс поза межами.
+2024-11-01 00:46:37 [main] INFO  salad.Salad - Створено новий об'єкт салату.
+2024-11-01 00:46:37 [main] INFO  salad.Salad - Додано овоч з даних: Tomato
+2024-11-01 00:46:37 [main] INFO  salad.Salad - Додано овоч з даних: Cucumber
+2024-11-01 00:46:37 [main] INFO  salad.Salad - Додано овоч з даних: Carrot
+2024-11-01 00:46:37 [main] INFO  salad.Salad - Салат завантажено з файлу: test_load_vegetables.txt
+2024-11-01 00:46:37 [main] INFO  salad.Salad - Створено новий об'єкт салату.
+2024-11-01 00:46:37 [main] INFO  salad.Salad - Додано овоч: Tomato
+2024-11-01 00:46:37 [main] INFO  salad.Salad - Додано овоч: Cucumber
+2024-11-01 00:46:37 [main] INFO  salad.Salad - Підрахунок загальної калорійності: 59.0
+2024-11-01 00:46:37 [main] INFO  salad.Salad - Створено новий об'єкт салату.
+2024-11-01 00:46:37 [main] ERROR salad.Salad - Не вдалося додати овоч: овоч не може бути null
+2024-11-01 00:46:43 [main] INFO  salad.Salad - Створено новий об'єкт салату.
+2024-11-01 00:46:43 [main] INFO  salad.Salad - Додано овоч з даних: Tomato
+2024-11-01 00:46:43 [main] WARN  salad.Salad - Невідомий овоч: unknown_vegetable
+2024-11-01 00:46:43 [main] INFO  salad.Salad - Додано овоч з даних: Carrot
+2024-11-01 00:46:43 [main] INFO  salad.Salad - Салат завантажено з файлу: test_load_partially_invalid_vegetables.txt
+2024-11-01 00:46:43 [main] INFO  salad.Salad - Створено новий об'єкт салату.
+2024-11-01 00:46:43 [main] INFO  salad.Salad - Додано овоч: Tomato
+2024-11-01 00:46:43 [main] INFO  salad.Salad - Салат збережено у файл: test_vegetables.txt
+2024-11-01 00:46:43 [main] INFO  salad.Salad - Створено новий об'єкт салату.
+2024-11-01 00:46:43 [main] INFO  salad.Salad - Додано овоч: Tomato
+2024-11-01 00:46:43 [main] INFO  salad.Salad - Додано овоч: Cucumber
+2024-11-01 00:46:43 [main] INFO  salad.Salad - Додано овоч: Carrot
+2024-11-01 00:46:43 [main] INFO  salad.Salad - Знайдено овочів у діапазоні калорій: 1
+2024-11-01 00:46:43 [main] INFO  salad.Salad - Знайдено овочів у діапазоні калорій: 0
+2024-11-01 00:46:43 [main] INFO  salad.Salad - Знайдено овочів у діапазоні калорій: 1
+2024-11-01 00:46:43 [main] INFO  salad.Salad - Знайдено овочів у діапазоні калорій: 1
+2024-11-01 00:46:43 [main] INFO  salad.Salad - Знайдено овочів у діапазоні калорій: 0
+2024-11-01 00:46:43 [main] INFO  salad.Salad - Створено новий об'єкт салату.
+2024-11-01 00:46:43 [main] INFO  salad.Salad - Додано овоч: Tomato
+2024-11-01 00:46:43 [main] INFO  salad.Salad - Додано овоч: Cucumber
+2024-11-01 00:46:43 [main] INFO  salad.Salad - Додано овоч: Carrot
+2024-11-01 00:46:43 [main] ERROR salad.Salad - Не вдалося видалити овоч: індекс поза межами.
+2024-11-01 00:46:52 [main] INFO  salad.Salad - Створено новий об'єкт салату.
+2024-11-01 00:46:52 [main] INFO  salad.Salad - Додано овоч з даних: Tomato
+2024-11-01 00:46:52 [main] INFO  salad.Salad - Додано овоч з даних: Cucumber
+2024-11-01 00:46:52 [main] INFO  salad.Salad - Додано овоч з даних: Carrot
+2024-11-01 00:46:52 [main] INFO  salad.Salad - Салат завантажено з файлу: test_load_vegetables.txt
+2024-11-01 00:46:52 [main] INFO  salad.Salad - Створено новий об'єкт салату.
+2024-11-01 00:46:52 [main] INFO  salad.Salad - Додано овоч: Tomato
+2024-11-01 00:46:52 [main] INFO  salad.Salad - Додано овоч: Cucumber
+2024-11-01 00:46:52 [main] INFO  salad.Salad - Підрахунок загальної калорійності: 59.0
+2024-11-01 00:46:52 [main] INFO  salad.Salad - Створено новий об'єкт салату.
+2024-11-01 00:46:52 [main] ERROR salad.Salad - Не вдалося додати овоч: овоч не може бути null
+2024-11-01 00:46:58 [main] INFO  salad.Salad - Створено новий об'єкт салату.
+2024-11-01 00:46:58 [main] INFO  salad.Salad - Додано овоч: Tomato
+2024-11-01 00:46:58 [main] INFO  salad.Salad - Додано овоч: Cucumber
+2024-11-01 00:46:59 [main] INFO  salad.Salad - Створено новий об'єкт салату.
+2024-11-01 00:46:59 [main] INFO  salad.Salad - Додано овоч: Tomato
+2024-11-01 00:46:59 [main] INFO  salad.Salad - Додано овоч: Cucumber
+2024-11-01 00:46:59 [main] INFO  salad.Salad - Видалено овоч: Tomato
+2024-11-01 00:46:59 [main] INFO  salad.Salad - Створено новий об'єкт салату.
+2024-11-01 00:46:59 [main] INFO  salad.Salad - Додано овоч: Tomato
+2024-11-01 00:46:59 [main] INFO  salad.Salad - Додано овоч: Cucumber
+2024-11-01 00:46:59 [main] INFO  salad.Salad - Додано овоч: Tomato
+2024-11-01 00:46:59 [main] INFO  salad.Salad - Овочі відсортовано за вагою.
+2024-11-01 00:46:59 [main] INFO  salad.Salad - Створено новий об'єкт салату.
+2024-11-01 00:46:59 [main] INFO  salad.Salad - Додано овоч: Carrot
+2024-11-01 00:46:59 [main] INFO  salad.Salad - Створено новий об'єкт салату.
+2024-11-01 00:46:59 [main] INFO  salad.Salad - Додано овоч: Cabbage
+2024-11-01 00:46:59 [main] INFO  salad.Salad - Створено новий об'єкт салату.
+2024-11-01 00:46:59 [main] INFO  salad.Salad - Додано овоч: Cucumber
+2024-11-01 00:46:59 [main] INFO  salad.Salad - Створено новий об'єкт салату.
+2024-11-01 00:46:59 [main] INFO  salad.Salad - Додано овоч: Tomato
+2024-11-01 00:46:59 [main] INFO  salad.Salad - Створено новий об'єкт салату.
+2024-11-01 00:46:59 [main] INFO  salad.Salad - Додано овоч: Onion
+2024-11-01 00:46:59 [main] INFO  salad.Salad - Створено новий об'єкт салату.
+2024-11-01 00:46:59 [main] INFO  salad.Salad - Створено новий об'єкт салату.
+2024-11-01 00:46:59 [main] INFO  salad.Salad - Додано овоч: Carrot
+2024-11-01 00:46:59 [main] INFO  salad.Salad - Додано овоч: Tomato
+2024-11-01 00:46:59 [main] INFO  salad.Salad - Підрахунок загальної калорійності: 68.0
+2024-11-01 00:46:59 [main] INFO  salad.Salad - Підрахунок загальної калорійності: 68.0
+2024-11-01 00:46:59 [main] INFO  salad.Salad - Підрахунок загальної калорійності: 68.0
+2024-11-01 00:46:59 [main] INFO  salad.Salad - Створено новий об'єкт салату.
+2024-11-01 00:46:59 [main] INFO  salad.Salad - Додано овоч: Carrot
+2024-11-01 00:46:59 [main] INFO  salad.Salad - Додано овоч: Tomato
+2024-11-01 00:46:59 [main] INFO  salad.Salad - Додано овоч: Carrot
+2024-11-01 00:46:59 [main] INFO  salad.Salad - Підрахунок загальної калорійності: 150.0
+2024-11-01 00:46:59 [main] INFO  salad.Salad - Підрахунок загальної калорійності: 150.0
+2024-11-01 00:46:59 [main] INFO  salad.Salad - Підрахунок загальної калорійності: 150.0
+2024-11-01 00:46:59 [main] INFO  salad.Salad - Створено новий об'єкт салату.
+2024-11-01 00:46:59 [main] INFO  salad.Salad - Підрахунок загальної калорійності: 0.0
+2024-11-01 00:46:59 [main] INFO  salad.Salad - Підрахунок загальної калорійності: 0.0
+2024-11-01 00:46:59 [main] INFO  salad.Salad - Підрахунок загальної калорійності: 0.0
+2024-11-01 00:46:59 [main] INFO  salad.Salad - Створено новий об'єкт салату.
+2024-11-01 00:46:59 [main] INFO  salad.Salad - Створено новий об'єкт салату.
+2024-11-01 00:47:49 [main] INFO  salad.Salad - Створено новий об'єкт салату.
+2024-11-01 00:47:49 [main] INFO  salad.Salad - Додано овоч: Tomato
+2024-11-01 00:47:49 [main] INFO  salad.Salad - Додано овоч: Cucumber
+2024-11-01 00:48:08 [main] INFO  salad.Salad - Створено новий об'єкт салату.
+2024-11-01 00:48:08 [main] INFO  salad.Salad - Створено новий об'єкт салату.
+2024-11-01 00:48:08 [main] INFO  salad.Salad - Салат збережено у файл: testSalad3677887920020651884.txt
+2024-11-01 00:48:08 [main] INFO  salad.Salad - Створено новий об'єкт салату.
+2024-11-01 00:48:08 [main] INFO  salad.Salad - Додано овоч: Tomato
+2024-11-01 00:48:08 [main] INFO  salad.Salad - Додано овоч: Cucumber
+2024-11-01 00:48:08 [main] INFO  salad.Salad - Створено новий об'єкт салату.
+2024-11-01 00:48:08 [main] INFO  salad.Salad - Додано овоч: Tomato
+2024-11-01 00:48:08 [main] INFO  salad.Salad - Додано овоч: Carrot
+2024-11-01 00:48:08 [main] INFO  salad.Salad - Знайдено овочів у діапазоні калорій: 2
+2024-11-01 00:48:08 [main] INFO  salad.Salad - Знайдено овочів у діапазоні калорій: 2
+2024-11-01 00:48:08 [main] INFO  salad.Salad - Створено новий об'єкт салату.
+2024-11-01 00:48:08 [main] INFO  salad.Salad - Додано овоч: Tomato
+2024-11-01 00:48:08 [main] INFO  salad.Salad - Створено новий об'єкт салату.
+2024-11-01 00:48:08 [main] INFO  salad.Salad - Додано овоч: Tomato
+2024-11-01 00:48:08 [main] INFO  salad.Salad - Додано овоч: Cucumber
+2024-11-01 00:48:08 [main] INFO  salad.Salad - Додано овоч: Carrot
+2024-11-01 00:48:08 [main] INFO  salad.Salad - Овочі відсортовано за вагою.
+2024-11-01 00:48:08 [main] INFO  salad.Salad - Створено новий об'єкт салату.
+2024-11-01 00:48:08 [main] INFO  salad.Salad - Додано овоч з даних: Tomato
+2024-11-01 00:48:08 [main] INFO  salad.Salad - Додано овоч з даних: Cucumber
+2024-11-01 00:48:08 [main] INFO  salad.Salad - Додано овоч з даних: Carrot
+2024-11-01 00:48:08 [main] INFO  salad.Salad - Салат завантажено з файлу: test_load_multiple_vegetables.txt
+2024-11-01 00:48:08 [main] INFO  salad.Salad - Створено новий об'єкт салату.
+2024-11-01 00:48:08 [main] WARN  salad.Salad - Невідомий овоч: unknown_vegetable
+2024-11-01 00:48:08 [main] INFO  salad.Salad - Додано овоч з даних: Tomato
+2024-11-01 00:48:08 [main] INFO  salad.Salad - Салат завантажено з файлу: test_load_unknown_vegetables.txt
+2024-11-01 00:48:08 [main] INFO  salad.Salad - Створено новий об'єкт салату.
+2024-11-01 00:48:08 [main] INFO  salad.Salad - Додано овоч: Tomato
+2024-11-01 00:48:08 [main] INFO  salad.Salad - Додано овоч: Cucumber
+2024-11-01 00:48:08 [main] INFO  salad.Salad - Створено новий об'єкт салату.
+2024-11-01 00:48:08 [main] INFO  salad.Salad - Додано овоч: Tomato
+2024-11-01 00:48:08 [main] INFO  salad.Salad - Додано овоч: Cucumber
+2024-11-01 00:48:08 [main] INFO  salad.Salad - Видалено овоч: Tomato
+2024-11-01 00:48:08 [main] INFO  salad.Salad - Створено новий об'єкт салату.
+2024-11-01 00:48:08 [main] ERROR salad.Salad - Не вдалося видалити овоч: індекс поза межами.
+2024-11-01 00:48:16 [main] INFO  salad.Salad - Створено новий об'єкт салату.
+2024-11-01 00:48:16 [main] INFO  salad.Salad - Додано овоч з даних: Tomato
+2024-11-01 00:48:16 [main] WARN  salad.Salad - Невідомий овоч: unknown_vegetable
+2024-11-01 00:48:16 [main] INFO  salad.Salad - Додано овоч з даних: Carrot
+2024-11-01 00:48:16 [main] INFO  salad.Salad - Салат завантажено з файлу: test_load_partially_invalid_vegetables.txt
+2024-11-01 00:48:16 [main] INFO  salad.Salad - Створено новий об'єкт салату.
+2024-11-01 00:48:16 [main] INFO  salad.Salad - Додано овоч: Tomato
+2024-11-01 00:48:16 [main] INFO  salad.Salad - Салат збережено у файл: test_vegetables.txt
+2024-11-01 00:48:16 [main] INFO  salad.Salad - Створено новий об'єкт салату.
+2024-11-01 00:48:16 [main] INFO  salad.Salad - Додано овоч: Tomato
+2024-11-01 00:48:16 [main] INFO  salad.Salad - Додано овоч: Cucumber
+2024-11-01 00:48:16 [main] INFO  salad.Salad - Додано овоч: Carrot
+2024-11-01 00:48:16 [main] INFO  salad.Salad - Знайдено овочів у діапазоні калорій: 1
+2024-11-01 00:48:16 [main] INFO  salad.Salad - Знайдено овочів у діапазоні калорій: 0
+2024-11-01 00:48:16 [main] INFO  salad.Salad - Знайдено овочів у діапазоні калорій: 1
+2024-11-01 00:48:16 [main] INFO  salad.Salad - Знайдено овочів у діапазоні калорій: 1
+2024-11-01 00:48:16 [main] INFO  salad.Salad - Знайдено овочів у діапазоні калорій: 0
+2024-11-01 00:48:16 [main] INFO  salad.Salad - Створено новий об'єкт салату.
+2024-11-01 00:48:16 [main] INFO  salad.Salad - Додано овоч: Tomato
+2024-11-01 00:48:16 [main] INFO  salad.Salad - Додано овоч: Cucumber
+2024-11-01 00:48:16 [main] INFO  salad.Salad - Додано овоч: Carrot
+2024-11-01 00:48:16 [main] ERROR salad.Salad - Не вдалося видалити овоч: індекс поза межами.
+2024-11-01 00:48:24 [main] INFO  salad.Salad - Створено новий об'єкт салату.
+2024-11-01 00:48:24 [main] INFO  salad.Salad - Додано овоч з даних: Tomato
+2024-11-01 00:48:24 [main] INFO  salad.Salad - Додано овоч з даних: Cucumber
+2024-11-01 00:48:24 [main] INFO  salad.Salad - Додано овоч з даних: Carrot
+2024-11-01 00:48:24 [main] INFO  salad.Salad - Салат завантажено з файлу: test_load_vegetables.txt
+2024-11-01 00:48:24 [main] INFO  salad.Salad - Створено новий об'єкт салату.
+2024-11-01 00:48:24 [main] INFO  salad.Salad - Додано овоч: Tomato
+2024-11-01 00:48:24 [main] INFO  salad.Salad - Додано овоч: Cucumber
+2024-11-01 00:48:24 [main] INFO  salad.Salad - Підрахунок загальної калорійності: 59.0
+2024-11-01 00:48:24 [main] INFO  salad.Salad - Створено новий об'єкт салату.
+2024-11-01 00:48:24 [main] ERROR salad.Salad - Не вдалося додати овоч: овоч не може бути null
+2024-11-01 00:48:30 [main] INFO  salad.Salad - Створено новий об'єкт салату.
+2024-11-01 00:48:30 [main] INFO  salad.Salad - Додано овоч: Tomato
+2024-11-01 00:48:30 [main] INFO  salad.Salad - Додано овоч: Cucumber
+2024-11-01 00:48:30 [main] INFO  salad.Salad - Видалено овоч: Tomato
+2024-11-01 00:48:30 [main] INFO  salad.Salad - Створено новий об'єкт салату.
+2024-11-01 00:48:30 [main] INFO  salad.Salad - Додано овоч: Tomato
+2024-11-01 00:48:30 [main] INFO  salad.Salad - Додано овоч: Cucumber
+2024-11-01 00:48:30 [main] INFO  salad.Salad - Додано овоч: Tomato
+2024-11-01 00:48:30 [main] INFO  salad.Salad - Овочі відсортовано за вагою.
+2024-11-01 00:48:30 [main] INFO  salad.Salad - Створено новий об'єкт салату.
+2024-11-01 00:48:30 [main] INFO  salad.Salad - Додано овоч: Carrot
+2024-11-01 00:48:30 [main] INFO  salad.Salad - Створено новий об'єкт салату.
+2024-11-01 00:48:30 [main] INFO  salad.Salad - Додано овоч: Cabbage
+2024-11-01 00:48:30 [main] INFO  salad.Salad - Створено новий об'єкт салату.
+2024-11-01 00:48:30 [main] INFO  salad.Salad - Додано овоч: Cucumber
+2024-11-01 00:48:30 [main] INFO  salad.Salad - Створено новий об'єкт салату.
+2024-11-01 00:48:30 [main] INFO  salad.Salad - Додано овоч: Tomato
+2024-11-01 00:48:30 [main] INFO  salad.Salad - Створено новий об'єкт салату.
+2024-11-01 00:48:30 [main] INFO  salad.Salad - Додано овоч: Onion
+2024-11-01 00:48:30 [main] INFO  salad.Salad - Створено новий об'єкт салату.
+2024-11-01 00:48:30 [main] INFO  salad.Salad - Створено новий об'єкт салату.
+2024-11-01 00:48:30 [main] INFO  salad.Salad - Додано овоч: Carrot
+2024-11-01 00:48:30 [main] INFO  salad.Salad - Додано овоч: Tomato
+2024-11-01 00:48:30 [main] INFO  salad.Salad - Підрахунок загальної калорійності: 68.0
+2024-11-01 00:48:30 [main] INFO  salad.Salad - Підрахунок загальної калорійності: 68.0
+2024-11-01 00:48:30 [main] INFO  salad.Salad - Підрахунок загальної калорійності: 68.0
+2024-11-01 00:48:30 [main] INFO  salad.Salad - Створено новий об'єкт салату.
+2024-11-01 00:48:30 [main] INFO  salad.Salad - Додано овоч: Carrot
+2024-11-01 00:48:30 [main] INFO  salad.Salad - Додано овоч: Tomato
+2024-11-01 00:48:30 [main] INFO  salad.Salad - Додано овоч: Carrot
+2024-11-01 00:48:30 [main] INFO  salad.Salad - Підрахунок загальної калорійності: 150.0
+2024-11-01 00:48:30 [main] INFO  salad.Salad - Підрахунок загальної калорійності: 150.0
+2024-11-01 00:48:30 [main] INFO  salad.Salad - Підрахунок загальної калорійності: 150.0
+2024-11-01 00:48:30 [main] INFO  salad.Salad - Створено новий об'єкт салату.
+2024-11-01 00:48:30 [main] INFO  salad.Salad - Підрахунок загальної калорійності: 0.0
+2024-11-01 00:48:30 [main] INFO  salad.Salad - Підрахунок загальної калорійності: 0.0
+2024-11-01 00:48:30 [main] INFO  salad.Salad - Підрахунок загальної калорійності: 0.0
+2024-11-01 00:48:30 [main] INFO  salad.Salad - Створено новий об'єкт салату.
+2024-11-01 00:48:30 [main] INFO  salad.Salad - Створено новий об'єкт салату.
+2024-11-01 00:55:23 [main] INFO  salad.Salad - Створено новий об'єкт салату.
+2024-11-01 00:55:23 [main] INFO  salad.Salad - Створено новий об'єкт салату.
+2024-11-01 00:55:23 [main] INFO  salad.Salad - Салат збережено у файл: testSalad1152872371439803347.txt
+2024-11-01 00:55:23 [main] INFO  salad.Salad - Створено новий об'єкт салату.
+2024-11-01 00:55:23 [main] INFO  salad.Salad - Додано овоч: Tomato
+2024-11-01 00:55:23 [main] INFO  salad.Salad - Додано овоч: Cucumber
+2024-11-01 00:55:23 [main] INFO  salad.Salad - Створено новий об'єкт салату.
+2024-11-01 00:55:23 [main] INFO  salad.Salad - Додано овоч: Tomato
+2024-11-01 00:55:23 [main] INFO  salad.Salad - Додано овоч: Carrot
+2024-11-01 00:55:23 [main] INFO  salad.Salad - Знайдено овочів у діапазоні калорій: 2
+2024-11-01 00:55:23 [main] INFO  salad.Salad - Знайдено овочів у діапазоні калорій: 2
+2024-11-01 00:55:23 [main] INFO  salad.Salad - Створено новий об'єкт салату.
+2024-11-01 00:55:23 [main] INFO  salad.Salad - Додано овоч: Tomato
+2024-11-01 00:55:23 [main] INFO  salad.Salad - Створено новий об'єкт салату.
+2024-11-01 00:55:23 [main] INFO  salad.Salad - Додано овоч: Tomato
+2024-11-01 00:55:23 [main] INFO  salad.Salad - Додано овоч: Cucumber
+2024-11-01 00:55:23 [main] INFO  salad.Salad - Додано овоч: Carrot
+2024-11-01 00:55:23 [main] INFO  salad.Salad - Овочі відсортовано за вагою.
+2024-11-01 00:55:23 [main] INFO  salad.Salad - Створено новий об'єкт салату.
+2024-11-01 00:55:23 [main] INFO  salad.Salad - Додано овоч з даних: Tomato
+2024-11-01 00:55:23 [main] INFO  salad.Salad - Додано овоч з даних: Cucumber
+2024-11-01 00:55:23 [main] INFO  salad.Salad - Додано овоч з даних: Carrot
+2024-11-01 00:55:23 [main] INFO  salad.Salad - Салат завантажено з файлу: test_load_multiple_vegetables.txt
+2024-11-01 00:55:23 [main] INFO  salad.Salad - Створено новий об'єкт салату.
+2024-11-01 00:55:23 [main] WARN  salad.Salad - Невідомий овоч: unknown_vegetable
+2024-11-01 00:55:23 [main] INFO  salad.Salad - Додано овоч з даних: Tomato
+2024-11-01 00:55:23 [main] INFO  salad.Salad - Салат завантажено з файлу: test_load_unknown_vegetables.txt
+2024-11-01 00:55:23 [main] INFO  salad.Salad - Створено новий об'єкт салату.
+2024-11-01 00:55:23 [main] INFO  salad.Salad - Додано овоч: Tomato
+2024-11-01 00:55:23 [main] INFO  salad.Salad - Додано овоч: Cucumber
+2024-11-01 00:55:23 [main] INFO  salad.Salad - Створено новий об'єкт салату.
+2024-11-01 00:55:23 [main] INFO  salad.Salad - Додано овоч: Tomato
+2024-11-01 00:55:23 [main] INFO  salad.Salad - Додано овоч: Cucumber
+2024-11-01 00:55:23 [main] INFO  salad.Salad - Видалено овоч: Tomato
+2024-11-01 00:55:23 [main] INFO  salad.Salad - Створено новий об'єкт салату.
+2024-11-01 00:55:23 [main] ERROR salad.Salad - Не вдалося видалити овоч: індекс поза межами.
+2024-11-01 00:55:33 [main] INFO  salad.Salad - Створено новий об'єкт салату.
+2024-11-01 00:55:33 [main] INFO  salad.Salad - Додано овоч з даних: Tomato
+2024-11-01 00:55:33 [main] WARN  salad.Salad - Невідомий овоч: unknown_vegetable
+2024-11-01 00:55:33 [main] INFO  salad.Salad - Додано овоч з даних: Carrot
+2024-11-01 00:55:33 [main] INFO  salad.Salad - Салат завантажено з файлу: test_load_partially_invalid_vegetables.txt
+2024-11-01 00:55:33 [main] INFO  salad.Salad - Створено новий об'єкт салату.
+2024-11-01 00:55:33 [main] INFO  salad.Salad - Додано овоч: Tomato
+2024-11-01 00:55:33 [main] INFO  salad.Salad - Салат збережено у файл: test_vegetables.txt
+2024-11-01 00:55:33 [main] INFO  salad.Salad - Створено новий об'єкт салату.
+2024-11-01 00:55:33 [main] INFO  salad.Salad - Додано овоч: Tomato
+2024-11-01 00:55:33 [main] INFO  salad.Salad - Додано овоч: Cucumber
+2024-11-01 00:55:33 [main] INFO  salad.Salad - Додано овоч: Carrot
+2024-11-01 00:55:33 [main] INFO  salad.Salad - Знайдено овочів у діапазоні калорій: 1
+2024-11-01 00:55:33 [main] INFO  salad.Salad - Знайдено овочів у діапазоні калорій: 0
+2024-11-01 00:55:33 [main] INFO  salad.Salad - Знайдено овочів у діапазоні калорій: 1
+2024-11-01 00:55:33 [main] INFO  salad.Salad - Знайдено овочів у діапазоні калорій: 1
+2024-11-01 00:55:33 [main] INFO  salad.Salad - Знайдено овочів у діапазоні калорій: 0
+2024-11-01 00:55:33 [main] INFO  salad.Salad - Створено новий об'єкт салату.
+2024-11-01 00:55:33 [main] INFO  salad.Salad - Додано овоч: Tomato
+2024-11-01 00:55:33 [main] INFO  salad.Salad - Додано овоч: Cucumber
+2024-11-01 00:55:33 [main] INFO  salad.Salad - Додано овоч: Carrot
+2024-11-01 00:55:33 [main] ERROR salad.Salad - Не вдалося видалити овоч: індекс поза межами.
+2024-11-01 00:55:41 [main] INFO  salad.Salad - Створено новий об'єкт салату.
+2024-11-01 00:55:41 [main] INFO  salad.Salad - Додано овоч з даних: Tomato
+2024-11-01 00:55:41 [main] INFO  salad.Salad - Додано овоч з даних: Cucumber
+2024-11-01 00:55:41 [main] INFO  salad.Salad - Додано овоч з даних: Carrot
+2024-11-01 00:55:41 [main] INFO  salad.Salad - Салат завантажено з файлу: test_load_vegetables.txt
+2024-11-01 00:55:41 [main] INFO  salad.Salad - Створено новий об'єкт салату.
+2024-11-01 00:55:41 [main] INFO  salad.Salad - Додано овоч: Tomato
+2024-11-01 00:55:41 [main] INFO  salad.Salad - Додано овоч: Cucumber
+2024-11-01 00:55:41 [main] INFO  salad.Salad - Підрахунок загальної калорійності: 59.0
+2024-11-01 00:55:41 [main] INFO  salad.Salad - Створено новий об'єкт салату.
+2024-11-01 00:55:41 [main] ERROR salad.Salad - Не вдалося додати овоч: овоч не може бути null
+2024-11-01 00:55:48 [main] INFO  salad.Salad - Створено новий об'єкт салату.
+2024-11-01 00:55:48 [main] INFO  salad.Salad - Додано овоч: Tomato
+2024-11-01 00:55:48 [main] INFO  salad.Salad - Додано овоч: Cucumber
+2024-11-01 00:55:48 [main] INFO  salad.Salad - Видалено овоч: Tomato
+2024-11-01 00:55:48 [main] INFO  salad.Salad - Створено новий об'єкт салату.
+2024-11-01 00:55:48 [main] INFO  salad.Salad - Додано овоч: Tomato
+2024-11-01 00:55:48 [main] INFO  salad.Salad - Додано овоч: Cucumber
+2024-11-01 00:55:48 [main] INFO  salad.Salad - Додано овоч: Tomato
+2024-11-01 00:55:48 [main] INFO  salad.Salad - Овочі відсортовано за вагою.
+2024-11-01 00:55:48 [main] INFO  salad.Salad - Створено новий об'єкт салату.
+2024-11-01 00:55:48 [main] INFO  salad.Salad - Додано овоч: Carrot
+2024-11-01 00:55:48 [main] INFO  salad.Salad - Створено новий об'єкт салату.
+2024-11-01 00:55:48 [main] INFO  salad.Salad - Додано овоч: Cabbage
+2024-11-01 00:55:48 [main] INFO  salad.Salad - Створено новий об'єкт салату.
+2024-11-01 00:55:48 [main] INFO  salad.Salad - Додано овоч: Cucumber
+2024-11-01 00:55:48 [main] INFO  salad.Salad - Створено новий об'єкт салату.
+2024-11-01 00:55:48 [main] INFO  salad.Salad - Додано овоч: Tomato
+2024-11-01 00:55:48 [main] INFO  salad.Salad - Створено новий об'єкт салату.
+2024-11-01 00:55:48 [main] INFO  salad.Salad - Додано овоч: Onion
+2024-11-01 00:55:48 [main] INFO  salad.Salad - Створено новий об'єкт салату.
+2024-11-01 00:55:48 [main] INFO  salad.Salad - Створено новий об'єкт салату.
+2024-11-01 00:55:48 [main] INFO  salad.Salad - Додано овоч: Carrot
+2024-11-01 00:55:48 [main] INFO  salad.Salad - Додано овоч: Tomato
+2024-11-01 00:55:48 [main] INFO  salad.Salad - Підрахунок загальної калорійності: 68.0
+2024-11-01 00:55:48 [main] INFO  salad.Salad - Підрахунок загальної калорійності: 68.0
+2024-11-01 00:55:48 [main] INFO  salad.Salad - Підрахунок загальної калорійності: 68.0
+2024-11-01 00:55:48 [main] INFO  salad.Salad - Створено новий об'єкт салату.
+2024-11-01 00:55:48 [main] INFO  salad.Salad - Додано овоч: Carrot
+2024-11-01 00:55:48 [main] INFO  salad.Salad - Додано овоч: Tomato
+2024-11-01 00:55:48 [main] INFO  salad.Salad - Додано овоч: Carrot
+2024-11-01 00:55:48 [main] INFO  salad.Salad - Підрахунок загальної калорійності: 150.0
+2024-11-01 00:55:48 [main] INFO  salad.Salad - Підрахунок загальної калорійності: 150.0
+2024-11-01 00:55:48 [main] INFO  salad.Salad - Підрахунок загальної калорійності: 150.0
+2024-11-01 00:55:48 [main] INFO  salad.Salad - Створено новий об'єкт салату.
+2024-11-01 00:55:48 [main] INFO  salad.Salad - Підрахунок загальної калорійності: 0.0
+2024-11-01 00:55:48 [main] INFO  salad.Salad - Підрахунок загальної калорійності: 0.0
+2024-11-01 00:55:48 [main] INFO  salad.Salad - Підрахунок загальної калорійності: 0.0
+2024-11-01 00:55:48 [main] INFO  salad.Salad - Створено новий об'єкт салату.
+2024-11-01 00:55:48 [main] INFO  salad.Salad - Створено новий об'єкт салату.
+2024-11-01 01:26:21 [main] INFO  salad.Salad - Створено новий об'єкт салату.
+2024-11-01 01:26:21 [main] INFO  salad.Salad - Створено новий об'єкт салату.
+2024-11-01 01:26:21 [main] INFO  salad.Salad - Салат збережено у файл: testSalad16402251552419767113.txt
+2024-11-01 01:26:21 [main] INFO  salad.Salad - Створено новий об'єкт салату.
+2024-11-01 01:26:21 [main] INFO  salad.Salad - Додано овоч: Tomato
+2024-11-01 01:26:21 [main] INFO  salad.Salad - Додано овоч: Cucumber
+2024-11-01 01:26:21 [main] INFO  salad.Salad - Створено новий об'єкт салату.
+2024-11-01 01:26:21 [main] INFO  salad.Salad - Додано овоч: Tomato
+2024-11-01 01:26:21 [main] INFO  salad.Salad - Додано овоч: Carrot
+2024-11-01 01:26:21 [main] INFO  salad.Salad - Знайдено овочів у діапазоні калорій: 2
+2024-11-01 01:26:21 [main] INFO  salad.Salad - Знайдено овочів у діапазоні калорій: 2
+2024-11-01 01:26:21 [main] INFO  salad.Salad - Створено новий об'єкт салату.
+2024-11-01 01:26:21 [main] INFO  salad.Salad - Додано овоч: Tomato
+2024-11-01 01:26:21 [main] INFO  salad.Salad - Створено новий об'єкт салату.
+2024-11-01 01:26:21 [main] INFO  salad.Salad - Додано овоч: Tomato
+2024-11-01 01:26:21 [main] INFO  salad.Salad - Додано овоч: Cucumber
+2024-11-01 01:26:21 [main] INFO  salad.Salad - Додано овоч: Carrot
+2024-11-01 01:26:21 [main] INFO  salad.Salad - Овочі відсортовано за вагою.
+2024-11-01 01:26:21 [main] INFO  salad.Salad - Створено новий об'єкт салату.
+2024-11-01 01:26:21 [main] INFO  salad.Salad - Додано овоч з даних: Tomato
+2024-11-01 01:26:21 [main] INFO  salad.Salad - Додано овоч з даних: Cucumber
+2024-11-01 01:26:21 [main] INFO  salad.Salad - Додано овоч з даних: Carrot
+2024-11-01 01:26:21 [main] INFO  salad.Salad - Салат завантажено з файлу: test_load_multiple_vegetables.txt
+2024-11-01 01:26:21 [main] INFO  salad.Salad - Створено новий об'єкт салату.
+2024-11-01 01:26:21 [main] WARN  salad.Salad - Невідомий овоч: unknown_vegetable
+2024-11-01 01:26:21 [main] INFO  salad.Salad - Додано овоч з даних: Tomato
+2024-11-01 01:26:21 [main] INFO  salad.Salad - Салат завантажено з файлу: test_load_unknown_vegetables.txt
+2024-11-01 01:26:21 [main] INFO  salad.Salad - Створено новий об'єкт салату.
+2024-11-01 01:26:21 [main] INFO  salad.Salad - Додано овоч: Tomato
+2024-11-01 01:26:21 [main] INFO  salad.Salad - Додано овоч: Cucumber
+2024-11-01 01:26:21 [main] INFO  salad.Salad - Створено новий об'єкт салату.
+2024-11-01 01:26:21 [main] INFO  salad.Salad - Додано овоч: Tomato
+2024-11-01 01:26:21 [main] INFO  salad.Salad - Додано овоч: Cucumber
+2024-11-01 01:26:21 [main] INFO  salad.Salad - Видалено овоч: Tomato
+2024-11-01 01:26:21 [main] INFO  salad.Salad - Створено новий об'єкт салату.
+2024-11-01 01:26:21 [main] ERROR salad.Salad - Не вдалося видалити овоч: індекс поза межами.
+2024-11-01 01:26:31 [main] INFO  salad.Salad - Створено новий об'єкт салату.
+2024-11-01 01:26:31 [main] INFO  salad.Salad - Додано овоч з даних: Tomato
+2024-11-01 01:26:31 [main] WARN  salad.Salad - Невідомий овоч: unknown_vegetable
+2024-11-01 01:26:31 [main] INFO  salad.Salad - Додано овоч з даних: Carrot
+2024-11-01 01:26:31 [main] INFO  salad.Salad - Салат завантажено з файлу: test_load_partially_invalid_vegetables.txt
+2024-11-01 01:26:31 [main] INFO  salad.Salad - Створено новий об'єкт салату.
+2024-11-01 01:26:31 [main] INFO  salad.Salad - Додано овоч: Tomato
+2024-11-01 01:26:31 [main] INFO  salad.Salad - Салат збережено у файл: test_vegetables.txt
+2024-11-01 01:26:31 [main] INFO  salad.Salad - Створено новий об'єкт салату.
+2024-11-01 01:26:31 [main] INFO  salad.Salad - Додано овоч: Tomato
+2024-11-01 01:26:31 [main] INFO  salad.Salad - Додано овоч: Cucumber
+2024-11-01 01:26:31 [main] INFO  salad.Salad - Додано овоч: Carrot
+2024-11-01 01:26:31 [main] INFO  salad.Salad - Знайдено овочів у діапазоні калорій: 1
+2024-11-01 01:26:31 [main] INFO  salad.Salad - Знайдено овочів у діапазоні калорій: 0
+2024-11-01 01:26:31 [main] INFO  salad.Salad - Знайдено овочів у діапазоні калорій: 1
+2024-11-01 01:26:31 [main] INFO  salad.Salad - Знайдено овочів у діапазоні калорій: 1
+2024-11-01 01:26:31 [main] INFO  salad.Salad - Знайдено овочів у діапазоні калорій: 0
+2024-11-01 01:26:31 [main] INFO  salad.Salad - Створено новий об'єкт салату.
+2024-11-01 01:26:31 [main] INFO  salad.Salad - Додано овоч: Tomato
+2024-11-01 01:26:31 [main] INFO  salad.Salad - Додано овоч: Cucumber
+2024-11-01 01:26:31 [main] INFO  salad.Salad - Додано овоч: Carrot
+2024-11-01 01:26:31 [main] ERROR salad.Salad - Не вдалося видалити овоч: індекс поза межами.
+2024-11-01 01:26:39 [main] INFO  salad.Salad - Створено новий об'єкт салату.
+2024-11-01 01:26:39 [main] INFO  salad.Salad - Додано овоч з даних: Tomato
+2024-11-01 01:26:39 [main] INFO  salad.Salad - Додано овоч з даних: Cucumber
+2024-11-01 01:26:39 [main] INFO  salad.Salad - Додано овоч з даних: Carrot
+2024-11-01 01:26:39 [main] INFO  salad.Salad - Салат завантажено з файлу: test_load_vegetables.txt
+2024-11-01 01:26:39 [main] INFO  salad.Salad - Створено новий об'єкт салату.
+2024-11-01 01:26:39 [main] INFO  salad.Salad - Додано овоч: Tomato
+2024-11-01 01:26:39 [main] INFO  salad.Salad - Додано овоч: Cucumber
+2024-11-01 01:26:39 [main] INFO  salad.Salad - Підрахунок загальної калорійності: 59.0
+2024-11-01 01:26:39 [main] INFO  salad.Salad - Створено новий об'єкт салату.
+2024-11-01 01:26:39 [main] ERROR salad.Salad - Не вдалося додати овоч: овоч не може бути null
+2024-11-01 01:26:45 [main] INFO  salad.Salad - Створено новий об'єкт салату.
+2024-11-01 01:26:45 [main] INFO  salad.Salad - Додано овоч: Tomato
+2024-11-01 01:26:45 [main] INFO  salad.Salad - Додано овоч: Cucumber
+2024-11-01 01:26:45 [main] INFO  salad.Salad - Видалено овоч: Tomato
+2024-11-01 01:26:45 [main] INFO  salad.Salad - Створено новий об'єкт салату.
+2024-11-01 01:26:45 [main] INFO  salad.Salad - Додано овоч: Tomato
+2024-11-01 01:26:45 [main] INFO  salad.Salad - Додано овоч: Cucumber
+2024-11-01 01:26:45 [main] INFO  salad.Salad - Додано овоч: Tomato
+2024-11-01 01:26:45 [main] INFO  salad.Salad - Овочі відсортовано за вагою.
+2024-11-01 01:26:45 [main] INFO  salad.Salad - Створено новий об'єкт салату.
+2024-11-01 01:26:45 [main] INFO  salad.Salad - Додано овоч: Carrot
+2024-11-01 01:26:45 [main] INFO  salad.Salad - Створено новий об'єкт салату.
+2024-11-01 01:26:45 [main] INFO  salad.Salad - Додано овоч: Cabbage
+2024-11-01 01:26:45 [main] INFO  salad.Salad - Створено новий об'єкт салату.
+2024-11-01 01:26:45 [main] INFO  salad.Salad - Додано овоч: Cucumber
+2024-11-01 01:26:45 [main] INFO  salad.Salad - Створено новий об'єкт салату.
+2024-11-01 01:26:45 [main] INFO  salad.Salad - Додано овоч: Tomato
+2024-11-01 01:26:45 [main] INFO  salad.Salad - Створено новий об'єкт салату.
+2024-11-01 01:26:45 [main] INFO  salad.Salad - Додано овоч: Onion
+2024-11-01 01:26:45 [main] INFO  salad.Salad - Створено новий об'єкт салату.
+2024-11-01 01:26:45 [main] INFO  salad.Salad - Створено новий об'єкт салату.
+2024-11-01 01:26:45 [main] INFO  salad.Salad - Додано овоч: Carrot
+2024-11-01 01:26:45 [main] INFO  salad.Salad - Додано овоч: Tomato
+2024-11-01 01:26:45 [main] INFO  salad.Salad - Підрахунок загальної калорійності: 68.0
+2024-11-01 01:26:45 [main] INFO  salad.Salad - Підрахунок загальної калорійності: 68.0
+2024-11-01 01:26:45 [main] INFO  salad.Salad - Підрахунок загальної калорійності: 68.0
+2024-11-01 01:26:45 [main] INFO  salad.Salad - Створено новий об'єкт салату.
+2024-11-01 01:26:45 [main] INFO  salad.Salad - Додано овоч: Carrot
+2024-11-01 01:26:45 [main] INFO  salad.Salad - Додано овоч: Tomato
+2024-11-01 01:26:45 [main] INFO  salad.Salad - Додано овоч: Carrot
+2024-11-01 01:26:45 [main] INFO  salad.Salad - Підрахунок загальної калорійності: 150.0
+2024-11-01 01:26:45 [main] INFO  salad.Salad - Підрахунок загальної калорійності: 150.0
+2024-11-01 01:26:45 [main] INFO  salad.Salad - Підрахунок загальної калорійності: 150.0
+2024-11-01 01:26:45 [main] INFO  salad.Salad - Створено новий об'єкт салату.
+2024-11-01 01:26:45 [main] INFO  salad.Salad - Підрахунок загальної калорійності: 0.0
+2024-11-01 01:26:45 [main] INFO  salad.Salad - Підрахунок загальної калорійності: 0.0
+2024-11-01 01:26:45 [main] INFO  salad.Salad - Підрахунок загальної калорійності: 0.0
+2024-11-01 01:26:45 [main] INFO  salad.Salad - Створено новий об'єкт салату.
+2024-11-01 01:26:45 [main] INFO  salad.Salad - Створено новий об'єкт салату.
+2024-11-01 01:30:54 [main] INFO  salad.Salad - Створено новий об'єкт салату.
+2024-11-01 01:30:54 [main] INFO  salad.Salad - Створено новий об'єкт салату.
+2024-11-01 01:30:54 [main] INFO  salad.Salad - Салат збережено у файл: testSalad13438403174544555311.txt
+2024-11-01 01:30:54 [main] INFO  salad.Salad - Створено новий об'єкт салату.
+2024-11-01 01:30:54 [main] INFO  salad.Salad - Додано овоч: Tomato
+2024-11-01 01:30:54 [main] INFO  salad.Salad - Додано овоч: Cucumber
+2024-11-01 01:30:54 [main] INFO  salad.Salad - Створено новий об'єкт салату.
+2024-11-01 01:30:54 [main] INFO  salad.Salad - Додано овоч: Tomato
+2024-11-01 01:30:54 [main] INFO  salad.Salad - Додано овоч: Carrot
+2024-11-01 01:30:54 [main] INFO  salad.Salad - Знайдено овочів у діапазоні калорій: 2
+2024-11-01 01:30:54 [main] INFO  salad.Salad - Знайдено овочів у діапазоні калорій: 2
+2024-11-01 01:30:54 [main] INFO  salad.Salad - Створено новий об'єкт салату.
+2024-11-01 01:30:54 [main] INFO  salad.Salad - Додано овоч: Tomato
+2024-11-01 01:30:54 [main] INFO  salad.Salad - Створено новий об'єкт салату.
+2024-11-01 01:30:54 [main] INFO  salad.Salad - Додано овоч: Tomato
+2024-11-01 01:30:54 [main] INFO  salad.Salad - Додано овоч: Cucumber
+2024-11-01 01:30:54 [main] INFO  salad.Salad - Додано овоч: Carrot
+2024-11-01 01:30:54 [main] INFO  salad.Salad - Овочі відсортовано за вагою.
+2024-11-01 01:30:54 [main] INFO  salad.Salad - Створено новий об'єкт салату.
+2024-11-01 01:30:54 [main] INFO  salad.Salad - Додано овоч з даних: Tomato
+2024-11-01 01:30:54 [main] INFO  salad.Salad - Додано овоч з даних: Cucumber
+2024-11-01 01:30:54 [main] INFO  salad.Salad - Додано овоч з даних: Carrot
+2024-11-01 01:30:54 [main] INFO  salad.Salad - Салат завантажено з файлу: test_load_multiple_vegetables.txt
+2024-11-01 01:30:54 [main] INFO  salad.Salad - Створено новий об'єкт салату.
+2024-11-01 01:30:54 [main] WARN  salad.Salad - Невідомий овоч: unknown_vegetable
+2024-11-01 01:30:54 [main] INFO  salad.Salad - Додано овоч з даних: Tomato
+2024-11-01 01:30:54 [main] INFO  salad.Salad - Салат завантажено з файлу: test_load_unknown_vegetables.txt
+2024-11-01 01:30:54 [main] INFO  salad.Salad - Створено новий об'єкт салату.
+2024-11-01 01:30:54 [main] INFO  salad.Salad - Додано овоч: Tomato
+2024-11-01 01:30:54 [main] INFO  salad.Salad - Додано овоч: Cucumber
+2024-11-01 01:30:54 [main] INFO  salad.Salad - Створено новий об'єкт салату.
+2024-11-01 01:30:54 [main] INFO  salad.Salad - Додано овоч: Tomato
+2024-11-01 01:30:54 [main] INFO  salad.Salad - Додано овоч: Cucumber
+2024-11-01 01:30:54 [main] INFO  salad.Salad - Видалено овоч: Tomato
+2024-11-01 01:30:54 [main] INFO  salad.Salad - Створено новий об'єкт салату.
+2024-11-01 01:30:54 [main] ERROR salad.Salad - Не вдалося видалити овоч: індекс поза межами.
+2024-11-01 01:31:02 [main] INFO  salad.Salad - Створено новий об'єкт салату.
+2024-11-01 01:31:02 [main] INFO  salad.Salad - Додано овоч з даних: Tomato
+2024-11-01 01:31:02 [main] WARN  salad.Salad - Невідомий овоч: unknown_vegetable
+2024-11-01 01:31:02 [main] INFO  salad.Salad - Додано овоч з даних: Carrot
+2024-11-01 01:31:02 [main] INFO  salad.Salad - Салат завантажено з файлу: test_load_partially_invalid_vegetables.txt
+2024-11-01 01:31:02 [main] INFO  salad.Salad - Створено новий об'єкт салату.
+2024-11-01 01:31:02 [main] INFO  salad.Salad - Додано овоч: Tomato
+2024-11-01 01:31:02 [main] INFO  salad.Salad - Салат збережено у файл: test_vegetables.txt
+2024-11-01 01:31:02 [main] INFO  salad.Salad - Створено новий об'єкт салату.
+2024-11-01 01:31:02 [main] INFO  salad.Salad - Додано овоч: Tomato
+2024-11-01 01:31:02 [main] INFO  salad.Salad - Додано овоч: Cucumber
+2024-11-01 01:31:02 [main] INFO  salad.Salad - Додано овоч: Carrot
+2024-11-01 01:31:02 [main] INFO  salad.Salad - Знайдено овочів у діапазоні калорій: 1
+2024-11-01 01:31:02 [main] INFO  salad.Salad - Знайдено овочів у діапазоні калорій: 0
+2024-11-01 01:31:02 [main] INFO  salad.Salad - Знайдено овочів у діапазоні калорій: 1
+2024-11-01 01:31:02 [main] INFO  salad.Salad - Знайдено овочів у діапазоні калорій: 1
+2024-11-01 01:31:02 [main] INFO  salad.Salad - Знайдено овочів у діапазоні калорій: 0
+2024-11-01 01:31:02 [main] INFO  salad.Salad - Створено новий об'єкт салату.
+2024-11-01 01:31:02 [main] INFO  salad.Salad - Додано овоч: Tomato
+2024-11-01 01:31:02 [main] INFO  salad.Salad - Додано овоч: Cucumber
+2024-11-01 01:31:02 [main] INFO  salad.Salad - Додано овоч: Carrot
+2024-11-01 01:31:02 [main] ERROR salad.Salad - Не вдалося видалити овоч: індекс поза межами.
+2024-11-01 01:31:08 [main] INFO  salad.Salad - Створено новий об'єкт салату.
+2024-11-01 01:31:08 [main] INFO  salad.Salad - Додано овоч з даних: Tomato
+2024-11-01 01:31:08 [main] INFO  salad.Salad - Додано овоч з даних: Cucumber
+2024-11-01 01:31:08 [main] INFO  salad.Salad - Додано овоч з даних: Carrot
+2024-11-01 01:31:08 [main] INFO  salad.Salad - Салат завантажено з файлу: test_load_vegetables.txt
+2024-11-01 01:31:08 [main] INFO  salad.Salad - Створено новий об'єкт салату.
+2024-11-01 01:31:08 [main] INFO  salad.Salad - Додано овоч: Tomato
+2024-11-01 01:31:08 [main] INFO  salad.Salad - Додано овоч: Cucumber
+2024-11-01 01:31:08 [main] INFO  salad.Salad - Підрахунок загальної калорійності: 59.0
+2024-11-01 01:31:08 [main] INFO  salad.Salad - Створено новий об'єкт салату.
+2024-11-01 01:31:08 [main] ERROR salad.Salad - Не вдалося додати овоч: овоч не може бути null
+2024-11-01 01:31:16 [main] INFO  salad.Salad - Створено новий об'єкт салату.
+2024-11-01 01:31:16 [main] INFO  salad.Salad - Додано овоч: Tomato
+2024-11-01 01:31:16 [main] INFO  salad.Salad - Додано овоч: Cucumber
+2024-11-01 01:31:16 [main] INFO  salad.Salad - Видалено овоч: Tomato
+2024-11-01 01:31:16 [main] INFO  salad.Salad - Створено новий об'єкт салату.
+2024-11-01 01:31:16 [main] INFO  salad.Salad - Додано овоч: Tomato
+2024-11-01 01:31:16 [main] INFO  salad.Salad - Додано овоч: Cucumber
+2024-11-01 01:31:16 [main] INFO  salad.Salad - Додано овоч: Tomato
+2024-11-01 01:31:16 [main] INFO  salad.Salad - Овочі відсортовано за вагою.
+2024-11-01 01:31:16 [main] INFO  salad.Salad - Створено новий об'єкт салату.
+2024-11-01 01:31:16 [main] INFO  salad.Salad - Додано овоч: Carrot
+2024-11-01 01:31:16 [main] INFO  salad.Salad - Створено новий об'єкт салату.
+2024-11-01 01:31:16 [main] INFO  salad.Salad - Додано овоч: Cabbage
+2024-11-01 01:31:16 [main] INFO  salad.Salad - Створено новий об'єкт салату.
+2024-11-01 01:31:16 [main] INFO  salad.Salad - Додано овоч: Cucumber
+2024-11-01 01:31:17 [main] INFO  salad.Salad - Створено новий об'єкт салату.
+2024-11-01 01:31:17 [main] INFO  salad.Salad - Додано овоч: Tomato
+2024-11-01 01:31:17 [main] INFO  salad.Salad - Створено новий об'єкт салату.
+2024-11-01 01:31:17 [main] INFO  salad.Salad - Додано овоч: Onion
+2024-11-01 01:31:17 [main] INFO  salad.Salad - Створено новий об'єкт салату.
+2024-11-01 01:31:17 [main] INFO  salad.Salad - Створено новий об'єкт салату.
+2024-11-01 01:31:17 [main] INFO  salad.Salad - Додано овоч: Carrot
+2024-11-01 01:31:17 [main] INFO  salad.Salad - Додано овоч: Tomato
+2024-11-01 01:31:17 [main] INFO  salad.Salad - Підрахунок загальної калорійності: 68.0
+2024-11-01 01:31:17 [main] INFO  salad.Salad - Підрахунок загальної калорійності: 68.0
+2024-11-01 01:31:17 [main] INFO  salad.Salad - Підрахунок загальної калорійності: 68.0
+2024-11-01 01:31:17 [main] INFO  salad.Salad - Створено новий об'єкт салату.
+2024-11-01 01:31:17 [main] INFO  salad.Salad - Додано овоч: Carrot
+2024-11-01 01:31:17 [main] INFO  salad.Salad - Додано овоч: Tomato
+2024-11-01 01:31:17 [main] INFO  salad.Salad - Додано овоч: Carrot
+2024-11-01 01:31:17 [main] INFO  salad.Salad - Підрахунок загальної калорійності: 150.0
+2024-11-01 01:31:17 [main] INFO  salad.Salad - Підрахунок загальної калорійності: 150.0
+2024-11-01 01:31:17 [main] INFO  salad.Salad - Підрахунок загальної калорійності: 150.0
+2024-11-01 01:31:17 [main] INFO  salad.Salad - Створено новий об'єкт салату.
+2024-11-01 01:31:17 [main] INFO  salad.Salad - Підрахунок загальної калорійності: 0.0
+2024-11-01 01:31:17 [main] INFO  salad.Salad - Підрахунок загальної калорійності: 0.0
+2024-11-01 01:31:17 [main] INFO  salad.Salad - Підрахунок загальної калорійності: 0.0
+2024-11-01 01:31:17 [main] INFO  salad.Salad - Створено новий об'єкт салату.
+2024-11-01 01:31:17 [main] INFO  salad.Salad - Створено новий об'єкт салату.
+2024-11-01 01:35:42 [main] INFO  salad.Salad - Створено новий об'єкт салату.
+2024-11-01 01:35:42 [main] INFO  salad.Salad - Створено новий об'єкт салату.
+2024-11-01 01:35:42 [main] INFO  salad.Salad - Салат збережено у файл: testSalad16576106134466514671.txt
+2024-11-01 01:35:42 [main] INFO  salad.Salad - Створено новий об'єкт салату.
+2024-11-01 01:35:42 [main] INFO  salad.Salad - Додано овоч: Tomato
+2024-11-01 01:35:42 [main] INFO  salad.Salad - Додано овоч: Cucumber
+2024-11-01 01:35:42 [main] INFO  salad.Salad - Створено новий об'єкт салату.
+2024-11-01 01:35:42 [main] INFO  salad.Salad - Додано овоч: Tomato
+2024-11-01 01:35:42 [main] INFO  salad.Salad - Додано овоч: Carrot
+2024-11-01 01:35:42 [main] INFO  salad.Salad - Знайдено овочів у діапазоні калорій: 2
+2024-11-01 01:35:42 [main] INFO  salad.Salad - Знайдено овочів у діапазоні калорій: 2
+2024-11-01 01:35:42 [main] INFO  salad.Salad - Створено новий об'єкт салату.
+2024-11-01 01:35:42 [main] INFO  salad.Salad - Додано овоч: Tomato
+2024-11-01 01:35:42 [main] INFO  salad.Salad - Створено новий об'єкт салату.
+2024-11-01 01:35:42 [main] INFO  salad.Salad - Додано овоч: Tomato
+2024-11-01 01:35:42 [main] INFO  salad.Salad - Додано овоч: Cucumber
+2024-11-01 01:35:42 [main] INFO  salad.Salad - Додано овоч: Carrot
+2024-11-01 01:35:42 [main] INFO  salad.Salad - Овочі відсортовано за вагою.
+2024-11-01 01:35:42 [main] INFO  salad.Salad - Створено новий об'єкт салату.
+2024-11-01 01:35:42 [main] INFO  salad.Salad - Додано овоч з даних: Tomato
+2024-11-01 01:35:42 [main] INFO  salad.Salad - Додано овоч з даних: Cucumber
+2024-11-01 01:35:42 [main] INFO  salad.Salad - Додано овоч з даних: Carrot
+2024-11-01 01:35:42 [main] INFO  salad.Salad - Салат завантажено з файлу: test_load_multiple_vegetables.txt
+2024-11-01 01:35:42 [main] INFO  salad.Salad - Створено новий об'єкт салату.
+2024-11-01 01:35:42 [main] WARN  salad.Salad - Невідомий овоч: unknown_vegetable
+2024-11-01 01:35:42 [main] INFO  salad.Salad - Додано овоч з даних: Tomato
+2024-11-01 01:35:42 [main] INFO  salad.Salad - Салат завантажено з файлу: test_load_unknown_vegetables.txt
+2024-11-01 01:35:42 [main] INFO  salad.Salad - Створено новий об'єкт салату.
+2024-11-01 01:35:42 [main] INFO  salad.Salad - Додано овоч: Tomato
+2024-11-01 01:35:42 [main] INFO  salad.Salad - Додано овоч: Cucumber
+2024-11-01 01:35:42 [main] INFO  salad.Salad - Створено новий об'єкт салату.
+2024-11-01 01:35:42 [main] INFO  salad.Salad - Додано овоч: Tomato
+2024-11-01 01:35:42 [main] INFO  salad.Salad - Додано овоч: Cucumber
+2024-11-01 01:35:42 [main] INFO  salad.Salad - Видалено овоч: Tomato
+2024-11-01 01:35:42 [main] INFO  salad.Salad - Створено новий об'єкт салату.
+2024-11-01 01:35:42 [main] ERROR salad.Salad - Не вдалося видалити овоч: індекс поза межами.
+2024-11-01 01:35:51 [main] INFO  salad.Salad - Створено новий об'єкт салату.
+2024-11-01 01:35:51 [main] INFO  salad.Salad - Додано овоч з даних: Tomato
+2024-11-01 01:35:51 [main] WARN  salad.Salad - Невідомий овоч: unknown_vegetable
+2024-11-01 01:35:51 [main] INFO  salad.Salad - Додано овоч з даних: Carrot
+2024-11-01 01:35:51 [main] INFO  salad.Salad - Салат завантажено з файлу: test_load_partially_invalid_vegetables.txt
+2024-11-01 01:35:51 [main] INFO  salad.Salad - Створено новий об'єкт салату.
+2024-11-01 01:35:51 [main] INFO  salad.Salad - Додано овоч: Tomato
+2024-11-01 01:35:51 [main] INFO  salad.Salad - Салат збережено у файл: test_vegetables.txt
+2024-11-01 01:35:52 [main] INFO  salad.Salad - Створено новий об'єкт салату.
+2024-11-01 01:35:52 [main] INFO  salad.Salad - Додано овоч: Tomato
+2024-11-01 01:35:52 [main] INFO  salad.Salad - Додано овоч: Cucumber
+2024-11-01 01:35:52 [main] INFO  salad.Salad - Додано овоч: Carrot
+2024-11-01 01:35:52 [main] INFO  salad.Salad - Знайдено овочів у діапазоні калорій: 1
+2024-11-01 01:35:52 [main] INFO  salad.Salad - Знайдено овочів у діапазоні калорій: 0
+2024-11-01 01:35:52 [main] INFO  salad.Salad - Знайдено овочів у діапазоні калорій: 1
+2024-11-01 01:35:52 [main] INFO  salad.Salad - Знайдено овочів у діапазоні калорій: 1
+2024-11-01 01:35:52 [main] INFO  salad.Salad - Знайдено овочів у діапазоні калорій: 0
+2024-11-01 01:35:52 [main] INFO  salad.Salad - Створено новий об'єкт салату.
+2024-11-01 01:35:52 [main] INFO  salad.Salad - Додано овоч: Tomato
+2024-11-01 01:35:52 [main] INFO  salad.Salad - Додано овоч: Cucumber
+2024-11-01 01:35:52 [main] INFO  salad.Salad - Додано овоч: Carrot
+2024-11-01 01:35:52 [main] ERROR salad.Salad - Не вдалося видалити овоч: індекс поза межами.
+2024-11-01 01:35:59 [main] INFO  salad.Salad - Створено новий об'єкт салату.
+2024-11-01 01:35:59 [main] INFO  salad.Salad - Додано овоч з даних: Tomato
+2024-11-01 01:35:59 [main] INFO  salad.Salad - Додано овоч з даних: Cucumber
+2024-11-01 01:35:59 [main] INFO  salad.Salad - Додано овоч з даних: Carrot
+2024-11-01 01:35:59 [main] INFO  salad.Salad - Салат завантажено з файлу: test_load_vegetables.txt
+2024-11-01 01:35:59 [main] INFO  salad.Salad - Створено новий об'єкт салату.
+2024-11-01 01:35:59 [main] INFO  salad.Salad - Додано овоч: Tomato
+2024-11-01 01:35:59 [main] INFO  salad.Salad - Додано овоч: Cucumber
+2024-11-01 01:35:59 [main] INFO  salad.Salad - Підрахунок загальної калорійності: 59.0
+2024-11-01 01:35:59 [main] INFO  salad.Salad - Створено новий об'єкт салату.
+2024-11-01 01:35:59 [main] ERROR salad.Salad - Не вдалося додати овоч: овоч не може бути null
+2024-11-01 01:36:08 [main] INFO  salad.Salad - Створено новий об'єкт салату.
+2024-11-01 01:36:08 [main] INFO  salad.Salad - Додано овоч: Tomato
+2024-11-01 01:36:08 [main] INFO  salad.Salad - Додано овоч: Cucumber
+2024-11-01 01:36:08 [main] INFO  salad.Salad - Видалено овоч: Tomato
+2024-11-01 01:36:08 [main] INFO  salad.Salad - Створено новий об'єкт салату.
+2024-11-01 01:36:08 [main] INFO  salad.Salad - Додано овоч: Tomato
+2024-11-01 01:36:08 [main] INFO  salad.Salad - Додано овоч: Cucumber
+2024-11-01 01:36:08 [main] INFO  salad.Salad - Додано овоч: Tomato
+2024-11-01 01:36:08 [main] INFO  salad.Salad - Овочі відсортовано за вагою.
+2024-11-01 01:36:08 [main] INFO  salad.Salad - Створено новий об'єкт салату.
+2024-11-01 01:36:08 [main] INFO  salad.Salad - Додано овоч: Carrot
+2024-11-01 01:36:08 [main] INFO  salad.Salad - Створено новий об'єкт салату.
+2024-11-01 01:36:08 [main] INFO  salad.Salad - Додано овоч: Cabbage
+2024-11-01 01:36:08 [main] INFO  salad.Salad - Створено новий об'єкт салату.
+2024-11-01 01:36:08 [main] INFO  salad.Salad - Додано овоч: Cucumber
+2024-11-01 01:36:08 [main] INFO  salad.Salad - Створено новий об'єкт салату.
+2024-11-01 01:36:08 [main] INFO  salad.Salad - Додано овоч: Tomato
+2024-11-01 01:36:08 [main] INFO  salad.Salad - Створено новий об'єкт салату.
+2024-11-01 01:36:08 [main] INFO  salad.Salad - Додано овоч: Onion
+2024-11-01 01:36:08 [main] INFO  salad.Salad - Створено новий об'єкт салату.
+2024-11-01 01:36:08 [main] INFO  salad.Salad - Створено новий об'єкт салату.
+2024-11-01 01:36:08 [main] INFO  salad.Salad - Додано овоч: Carrot
+2024-11-01 01:36:08 [main] INFO  salad.Salad - Додано овоч: Tomato
+2024-11-01 01:36:08 [main] INFO  salad.Salad - Підрахунок загальної калорійності: 68.0
+2024-11-01 01:36:08 [main] INFO  salad.Salad - Підрахунок загальної калорійності: 68.0
+2024-11-01 01:36:08 [main] INFO  salad.Salad - Підрахунок загальної калорійності: 68.0
+2024-11-01 01:36:08 [main] INFO  salad.Salad - Створено новий об'єкт салату.
+2024-11-01 01:36:08 [main] INFO  salad.Salad - Додано овоч: Carrot
+2024-11-01 01:36:08 [main] INFO  salad.Salad - Додано овоч: Tomato
+2024-11-01 01:36:08 [main] INFO  salad.Salad - Додано овоч: Carrot
+2024-11-01 01:36:08 [main] INFO  salad.Salad - Підрахунок загальної калорійності: 150.0
+2024-11-01 01:36:08 [main] INFO  salad.Salad - Підрахунок загальної калорійності: 150.0
+2024-11-01 01:36:08 [main] INFO  salad.Salad - Підрахунок загальної калорійності: 150.0
+2024-11-01 01:36:08 [main] INFO  salad.Salad - Створено новий об'єкт салату.
+2024-11-01 01:36:08 [main] INFO  salad.Salad - Підрахунок загальної калорійності: 0.0
+2024-11-01 01:36:08 [main] INFO  salad.Salad - Підрахунок загальної калорійності: 0.0
+2024-11-01 01:36:08 [main] INFO  salad.Salad - Підрахунок загальної калорійності: 0.0
+2024-11-01 01:36:08 [main] INFO  salad.Salad - Створено новий об'єкт салату.
+2024-11-01 01:36:08 [main] INFO  salad.Salad - Створено новий об'єкт салату.

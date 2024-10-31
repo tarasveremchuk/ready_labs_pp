@@ -1,0 +1,15 @@
+2024-11-01 01:05:16 [main] INFO  salad.Salad - Створено новий об'єкт салату.
+2024-11-01 01:05:16 [main] ERROR Main - Виникла критична помилка: / by zero
+java.lang.ArithmeticException: / by zero
+	at Main.main(Main.java:13) [classes/:?]
+2024-11-01 01:11:56 [main] INFO  salad.Salad - Створено новий об'єкт салату.
+2024-11-01 01:11:56 [main] ERROR Main - Виникла критична помилка: / by zero
+java.lang.ArithmeticException: / by zero
+	at Main.main(Main.java:13) [classes/:?]
+2024-11-01 01:12:07 [main] INFO  Main - Користувач вибрав опцію: 1
+2024-11-01 01:12:10 [main] INFO  vegetables.Vegetable - Створено новий овоч: назва = Carrot, вага = 3.0g, калорії = 41.0
+2024-11-01 01:12:10 [main] INFO  vegetables.Carrot - Створено нову моркву: стан = ваі, вага = 3.0
+2024-11-01 01:12:10 [main] INFO  salad.Salad - Додано овоч: Carrot
+2024-11-01 01:12:10 [main] INFO  Main - Овоч додано до салату.
+2024-11-01 01:12:15 [main] INFO  Main - Користувач вибрав опцію: 9
+2024-11-01 01:12:15 [main] INFO  Main - Програма завершена.

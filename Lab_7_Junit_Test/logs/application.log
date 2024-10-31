@@ -1,0 +1,209 @@
+2024-10-31 23:25:52 INFO  Main - Користувач вибрав опцію: 1
+2024-10-31 23:25:56 INFO  Main - Овоч додано до салату.
+2024-10-31 23:25:57 INFO  Main - Користувач вибрав опцію: 2
+2024-10-31 23:25:57 INFO  Main - Салат показано.
+2024-10-31 23:25:59 INFO  Main - Користувач вибрав опцію: 9
+2024-10-31 23:25:59 INFO  Main - Програма завершена.
+2024-10-31 23:29:01 INFO  Salad - Створено новий об'єкт салату.
+2024-10-31 23:29:02 INFO  Main - Користувач вибрав опцію: 1
+2024-10-31 23:29:07 INFO  Salad - Додано овоч: Carrot
+2024-10-31 23:29:07 INFO  Main - Овоч додано до салату.
+2024-10-31 23:29:08 INFO  Main - Користувач вибрав опцію: 9
+2024-10-31 23:29:08 INFO  Main - Програма завершена.
+2024-10-31 23:39:34 INFO  Salad - Створено новий об'єкт салату.
+2024-10-31 23:39:34 ERROR Main - Виникла критична помилка: / by zero
+java.lang.ArithmeticException: / by zero
+	at Main.main(Main.java:13) [classes/:?]
+2024-10-31 23:39:37 INFO  Main - Користувач вибрав опцію: 1
+2024-10-31 23:42:18 INFO  Salad - Створено новий об'єкт салату.
+2024-10-31 23:42:18 ERROR Main - Виникла критична помилка: / by zero
+java.lang.ArithmeticException: / by zero
+	at Main.main(Main.java:13) [classes/:?]
+2024-10-31 23:43:18 INFO  Salad - Створено новий об'єкт салату.
+2024-10-31 23:43:18 ERROR Main - Виникла критична помилка: / by zero
+java.lang.ArithmeticException: / by zero
+	at Main.main(Main.java:13) [classes/:?]
+2024-10-31 23:47:17 INFO  Salad - Створено новий об'єкт салату.
+2024-10-31 23:47:17 ERROR Main - Виникла критична помилка: / by zero
+java.lang.ArithmeticException: / by zero
+	at Main.main(Main.java:13) [classes/:?]
+2024-10-31 23:48:36 INFO  Salad - Створено новий об'єкт салату.
+2024-10-31 23:48:36 ERROR Main - Виникла критична помилка: / by zero
+java.lang.ArithmeticException: / by zero
+	at Main.main(Main.java:13) [classes/:?]
+2024-10-31 23:49:50 INFO  Salad - Створено новий об'єкт салату.
+2024-10-31 23:49:50 ERROR Main - Виникла критична помилка: / by zero
+java.lang.ArithmeticException: / by zero
+	at Main.main(Main.java:13) [classes/:?]
+2024-10-31 23:51:34 INFO  Salad - Створено новий об'єкт салату.
+2024-10-31 23:51:34 ERROR Main - Виникла критична помилка: / by zero
+java.lang.ArithmeticException: / by zero
+	at Main.main(Main.java:13) [classes/:?]
+2024-10-31 23:53:47 INFO  Salad - Створено новий об'єкт салату.
+2024-10-31 23:53:47 ERROR Main - Виникла критична помилка: / by zero
+java.lang.ArithmeticException: / by zero
+	at Main.main(Main.java:13) [classes/:?]
+2024-10-31 23:55:45 INFO  Salad - Створено новий об'єкт салату.
+2024-10-31 23:55:45 ERROR Main - Виникла критична помилка: / by zero
+java.lang.ArithmeticException: / by zero
+	at Main.main(Main.java:13) [classes/:?]
+2024-10-31 23:57:42 INFO  Salad - Створено новий об'єкт салату.
+2024-10-31 23:57:42 ERROR Main - Виникла критична помилка: / by zero
+java.lang.ArithmeticException: / by zero
+	at Main.main(Main.java:13) [classes/:?]
+2024-10-31 23:58:30 INFO  Salad - Створено новий об'єкт салату.
+2024-10-31 23:58:30 ERROR Main - Виникла критична помилка: / by zero
+java.lang.ArithmeticException: / by zero
+	at Main.main(Main.java:13) [classes/:?]
+2024-11-01 00:04:17 INFO  Salad - Створено новий об'єкт салату.
+2024-11-01 00:04:17 ERROR Main - Виникла критична помилка: / by zero
+java.lang.ArithmeticException: / by zero
+	at Main.main(Main.java:13) [classes/:?]
+2024-11-01 00:05:39 INFO  Salad - Створено новий об'єкт салату.
+2024-11-01 00:05:39 ERROR Main - Виникла критична помилка: / by zero
+java.lang.ArithmeticException: / by zero
+	at Main.main(Main.java:13) [classes/:?]
+2024-11-01 00:07:03 INFO  Salad - Створено новий об'єкт салату.
+2024-11-01 00:07:03 ERROR Main - Виникла критична помилка: / by zero
+java.lang.ArithmeticException: / by zero
+	at Main.main(Main.java:13) [classes/:?]
+2024-11-01 00:07:55 INFO  Salad - Створено новий об'єкт салату.
+2024-11-01 00:07:55 ERROR Main - Виникла критична помилка: / by zero
+java.lang.ArithmeticException: / by zero
+	at Main.main(Main.java:13) [classes/:?]
+2024-11-01 00:09:39 INFO  Salad - Створено новий об'єкт салату.
+2024-11-01 00:09:39 ERROR Main - Виникла критична помилка: / by zero
+java.lang.ArithmeticException: / by zero
+	at Main.main(Main.java:13) [classes/:?]
+2024-11-01 00:13:03 INFO  Salad - Створено новий об'єкт салату.
+2024-11-01 00:13:03 ERROR Main - Виникла критична помилка: / by zero
+java.lang.ArithmeticException: / by zero
+	at Main.main(Main.java:13) [classes/:?]
+2024-11-01 00:14:19 INFO  Salad - Створено новий об'єкт салату.
+2024-11-01 00:14:19 ERROR Main - Виникла критична помилка: / by zero
+java.lang.ArithmeticException: / by zero
+	at Main.main(Main.java:13) [classes/:?]
+2024-11-01 00:15:07 INFO  Salad - Створено новий об'єкт салату.
+2024-11-01 00:15:07 ERROR Main - Виникла критична помилка: / by zero
+java.lang.ArithmeticException: / by zero
+	at Main.main(Main.java:13) [classes/:?]
+2024-11-01 00:15:33 INFO  Salad - Створено новий об'єкт салату.
+2024-11-01 00:15:33 INFO  Salad - Створено новий об'єкт салату.
+2024-11-01 00:15:33 INFO  Salad - Салат збережено у файл: testSalad2127489637447178011.txt
+2024-11-01 00:15:33 INFO  Salad - Створено новий об'єкт салату.
+2024-11-01 00:15:33 INFO  Salad - Додано овоч: Tomato
+2024-11-01 00:15:33 INFO  Salad - Додано овоч: Cucumber
+2024-11-01 00:15:33 INFO  Salad - Створено новий об'єкт салату.
+2024-11-01 00:15:33 INFO  Salad - Додано овоч: Tomato
+2024-11-01 00:15:33 INFO  Salad - Додано овоч: Carrot
+2024-11-01 00:15:33 INFO  Salad - Знайдено овочів у діапазоні калорій: 2
+2024-11-01 00:15:33 INFO  Salad - Знайдено овочів у діапазоні калорій: 2
+2024-11-01 00:15:33 INFO  Salad - Створено новий об'єкт салату.
+2024-11-01 00:15:33 INFO  Salad - Додано овоч: Tomato
+2024-11-01 00:15:33 INFO  Salad - Створено новий об'єкт салату.
+2024-11-01 00:15:33 INFO  Salad - Додано овоч: Tomato
+2024-11-01 00:15:33 INFO  Salad - Додано овоч: Cucumber
+2024-11-01 00:15:33 INFO  Salad - Додано овоч: Carrot
+2024-11-01 00:15:33 INFO  Salad - Овочі відсортовано за вагою.
+2024-11-01 00:15:33 INFO  Salad - Створено новий об'єкт салату.
+2024-11-01 00:15:33 INFO  Salad - Додано овоч з даних: Tomato
+2024-11-01 00:15:33 INFO  Salad - Додано овоч з даних: Cucumber
+2024-11-01 00:15:33 INFO  Salad - Додано овоч з даних: Carrot
+2024-11-01 00:15:33 INFO  Salad - Салат завантажено з файлу: test_load_multiple_vegetables.txt
+2024-11-01 00:15:33 INFO  Salad - Створено новий об'єкт салату.
+2024-11-01 00:15:33 WARN  Salad - Невідомий овоч: unknown_vegetable
+2024-11-01 00:15:33 INFO  Salad - Додано овоч з даних: Tomato
+2024-11-01 00:15:33 INFO  Salad - Салат завантажено з файлу: test_load_unknown_vegetables.txt
+2024-11-01 00:15:33 INFO  Salad - Створено новий об'єкт салату.
+2024-11-01 00:15:33 INFO  Salad - Додано овоч: Tomato
+2024-11-01 00:15:33 INFO  Salad - Додано овоч: Cucumber
+2024-11-01 00:15:33 INFO  Salad - Створено новий об'єкт салату.
+2024-11-01 00:15:33 INFO  Salad - Додано овоч: Tomato
+2024-11-01 00:15:33 INFO  Salad - Додано овоч: Cucumber
+2024-11-01 00:15:33 INFO  Salad - Видалено овоч: Tomato
+2024-11-01 00:15:33 INFO  Salad - Створено новий об'єкт салату.
+2024-11-01 00:15:33 ERROR Salad - Не вдалося видалити овоч: індекс поза межами.
+2024-11-01 00:15:44 INFO  Salad - Створено новий об'єкт салату.
+2024-11-01 00:15:44 INFO  Salad - Додано овоч з даних: Tomato
+2024-11-01 00:15:44 WARN  Salad - Невідомий овоч: unknown_vegetable
+2024-11-01 00:15:44 INFO  Salad - Додано овоч з даних: Carrot
+2024-11-01 00:15:44 INFO  Salad - Салат завантажено з файлу: test_load_partially_invalid_vegetables.txt
+2024-11-01 00:15:44 INFO  Salad - Створено новий об'єкт салату.
+2024-11-01 00:15:44 INFO  Salad - Додано овоч: Tomato
+2024-11-01 00:15:44 INFO  Salad - Салат збережено у файл: test_vegetables.txt
+2024-11-01 00:15:44 INFO  Salad - Створено новий об'єкт салату.
+2024-11-01 00:15:44 INFO  Salad - Додано овоч: Tomato
+2024-11-01 00:15:44 INFO  Salad - Додано овоч: Cucumber
+2024-11-01 00:15:44 INFO  Salad - Додано овоч: Carrot
+2024-11-01 00:15:44 INFO  Salad - Знайдено овочів у діапазоні калорій: 1
+2024-11-01 00:15:44 INFO  Salad - Знайдено овочів у діапазоні калорій: 0
+2024-11-01 00:15:44 INFO  Salad - Знайдено овочів у діапазоні калорій: 1
+2024-11-01 00:15:44 INFO  Salad - Знайдено овочів у діапазоні калорій: 1
+2024-11-01 00:15:44 INFO  Salad - Знайдено овочів у діапазоні калорій: 0
+2024-11-01 00:15:44 INFO  Salad - Створено новий об'єкт салату.
+2024-11-01 00:15:44 INFO  Salad - Додано овоч: Tomato
+2024-11-01 00:15:44 INFO  Salad - Додано овоч: Cucumber
+2024-11-01 00:15:44 INFO  Salad - Додано овоч: Carrot
+2024-11-01 00:15:44 ERROR Salad - Не вдалося видалити овоч: індекс поза межами.
+2024-11-01 00:15:54 INFO  Salad - Створено новий об'єкт салату.
+2024-11-01 00:15:54 INFO  Salad - Додано овоч з даних: Tomato
+2024-11-01 00:15:54 INFO  Salad - Додано овоч з даних: Cucumber
+2024-11-01 00:15:54 INFO  Salad - Додано овоч з даних: Carrot
+2024-11-01 00:15:54 INFO  Salad - Салат завантажено з файлу: test_load_vegetables.txt
+2024-11-01 00:15:54 INFO  Salad - Створено новий об'єкт салату.
+2024-11-01 00:15:54 INFO  Salad - Додано овоч: Tomato
+2024-11-01 00:15:54 INFO  Salad - Додано овоч: Cucumber
+2024-11-01 00:15:54 INFO  Salad - Підрахунок загальної калорійності: 59.0
+2024-11-01 00:15:54 INFO  Salad - Створено новий об'єкт салату.
+2024-11-01 00:15:54 ERROR Salad - Не вдалося додати овоч: овоч не може бути null
+2024-11-01 00:16:04 INFO  Salad - Створено новий об'єкт салату.
+2024-11-01 00:16:04 INFO  Salad - Додано овоч: Tomato
+2024-11-01 00:16:04 INFO  Salad - Додано овоч: Cucumber
+2024-11-01 00:16:04 INFO  Salad - Видалено овоч: Tomato
+2024-11-01 00:16:04 INFO  Salad - Створено новий об'єкт салату.
+2024-11-01 00:16:04 INFO  Salad - Додано овоч: Tomato
+2024-11-01 00:16:04 INFO  Salad - Додано овоч: Cucumber
+2024-11-01 00:16:04 INFO  Salad - Додано овоч: Tomato
+2024-11-01 00:16:04 INFO  Salad - Овочі відсортовано за вагою.
+2024-11-01 00:16:04 INFO  Salad - Створено новий об'єкт салату.
+2024-11-01 00:16:04 INFO  Salad - Додано овоч: Carrot
+2024-11-01 00:16:04 INFO  Salad - Створено новий об'єкт салату.
+2024-11-01 00:16:04 INFO  Salad - Додано овоч: Cabbage
+2024-11-01 00:16:04 INFO  Salad - Створено новий об'єкт салату.
+2024-11-01 00:16:04 INFO  Salad - Додано овоч: Cucumber
+2024-11-01 00:16:04 INFO  Salad - Створено новий об'єкт салату.
+2024-11-01 00:16:04 INFO  Salad - Додано овоч: Tomato
+2024-11-01 00:16:04 INFO  Salad - Створено новий об'єкт салату.
+2024-11-01 00:16:04 INFO  Salad - Додано овоч: Onion
+2024-11-01 00:16:04 INFO  Salad - Створено новий об'єкт салату.
+2024-11-01 00:16:04 INFO  Salad - Створено новий об'єкт салату.
+2024-11-01 00:16:04 INFO  Salad - Додано овоч: Carrot
+2024-11-01 00:16:04 INFO  Salad - Додано овоч: Tomato
+2024-11-01 00:16:04 INFO  Salad - Підрахунок загальної калорійності: 68.0
+2024-11-01 00:16:04 INFO  Salad - Підрахунок загальної калорійності: 68.0
+2024-11-01 00:16:04 INFO  Salad - Підрахунок загальної калорійності: 68.0
+2024-11-01 00:16:04 INFO  Salad - Створено новий об'єкт салату.
+2024-11-01 00:16:04 INFO  Salad - Додано овоч: Carrot
+2024-11-01 00:16:04 INFO  Salad - Додано овоч: Tomato
+2024-11-01 00:16:04 INFO  Salad - Додано овоч: Carrot
+2024-11-01 00:16:04 INFO  Salad - Підрахунок загальної калорійності: 150.0
+2024-11-01 00:16:04 INFO  Salad - Підрахунок загальної калорійності: 150.0
+2024-11-01 00:16:04 INFO  Salad - Підрахунок загальної калорійності: 150.0
+2024-11-01 00:16:04 INFO  Salad - Створено новий об'єкт салату.
+2024-11-01 00:16:04 INFO  Salad - Підрахунок загальної калорійності: 0.0
+2024-11-01 00:16:04 INFO  Salad - Підрахунок загальної калорійності: 0.0
+2024-11-01 00:16:04 INFO  Salad - Підрахунок загальної калорійності: 0.0
+2024-11-01 00:16:04 INFO  Salad - Створено новий об'єкт салату.
+2024-11-01 00:16:04 INFO  Salad - Створено новий об'єкт салату.
+2024-11-01 00:18:00 INFO  Salad - Створено новий об'єкт салату.
+2024-11-01 00:18:00 ERROR Main - Виникла критична помилка: / by zero
+java.lang.ArithmeticException: / by zero
+	at Main.main(Main.java:13) [classes/:?]
+2024-11-01 00:19:09 INFO  Salad - Створено новий об'єкт салату.
+2024-11-01 00:19:09 ERROR Main - Виникла критична помилка: / by zero
+java.lang.ArithmeticException: / by zero
+	at Main.main(Main.java:13) [classes/:?]
+2024-11-01 00:21:30 INFO  Salad - Створено новий об'єкт салату.
+2024-11-01 00:21:30 ERROR Main - Виникла критична помилка: / by zero
+java.lang.ArithmeticException: / by zero
+	at Main.main(Main.java:13) [classes/:?]
